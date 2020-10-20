@@ -1,0 +1,74 @@
+[
+    {
+        "section": "Baal's Friends and Foes",
+        "intro": "Some people loved him, and some people hated him--but he wasn't even real! What do you know about the supporters and opponents of the false god Baal?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What \"fleecy\" judge was nicknamed \"Jerub-Baal\" for tearing down Baal's altar?",
+                "ans": "Gideon",
+                "ref": "Judges 6:32"
+            },
+            {
+                "pts": 200,
+                "ask": "What prophet of God challenged 450 prophets of Baal to see whose god would answer by fire?",
+                "ans": "Elijah",
+                "ref": "1 King 18:22-24"
+            },
+            {
+                "pts": 300,
+                "ask": "What leader's death preceded the Israelites' descent into Baal worship?",
+                "ans": "Joshua",
+                "ref": "Judges 2:8-11"
+            },
+            {
+                "pts": 400,
+                "ask": "What evil woman led Israel's King Ahab, her husband, into Baal worship?",
+                "ans": "Jezebel",
+                "ref": "1 Kings 16:29-31"
+            },
+            {
+                "pts": 500,
+                "ask": "What king of Israel claimed to worship Baal, only to destroy the priests of Baal?",
+                "ans": "Jehu",
+                "ref": "2 Kings 10:18-19"
+            }
+        ]
+    },
+    {
+        "section": "",
+        "intro": "",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "",
+                "ans": "",
+                "ref": ""
+            },
+            {
+                "pts": 200,
+                "ask": "",
+                "ans": "",
+                "ref": ""
+            },
+            {
+                "pts": 300,
+                "ask": "",
+                "ans": "",
+                "ref": ""
+            },
+            {
+                "pts": 400,
+                "ask": "",
+                "ans": "",
+                "ref": ""
+            },
+            {
+                "pts": 500,
+                "ask": "",
+                "ans": "",
+                "ref": ""
+            }
+        ]
+    }
+]
