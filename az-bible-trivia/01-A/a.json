@@ -1,0 +1,146 @@
+[
+    {
+        "section": "Abel",
+        "intro": "Are you \"able\" to handle \"Abel\"? Most everyone knows Abel was the world's first murder victim...but what else do you know about this unfortunate man?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What \"first couple\" gave birth to Abel?",
+                "ans": "Adam & Eve",
+                "ref": "Gen 4:1-2"
+            },
+            {
+                "pts": 200,
+                "ask": "What unaccepted offering provoked Cain's murder of Abel?",
+                "ans": "fruits of the soil",
+                "ref": "Gen 4:3-5"
+            },
+            {
+                "pts": 300,
+                "ask": "What five-word question did Cain use to dismiss God's question about Abel's whereabouts?",
+                "ans": "Am I my brother's keeper?",
+                "ref": "Gen 4:9"
+            },
+            {
+                "pts": 400,
+                "ask": "What part of Abel did God tell Cain \"cries out to me from the ground\"?",
+                "ans": "his blood",
+                "ref": "Gen 4:10"
+            },
+            {
+                "pts": 500,
+                "ask": "What third son did Eve say God gave her in place of the murdered Abel?",
+                "ans": "Seth",
+                "ref": "Gen 4:25"
+            }
+        ]
+    },
+    {
+        "section": "AKA",
+        "intro": "You've seen these initials in TV police shows--they stand for \"also known as.\" What do you know about the alternative names of the Bible characters?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What apostle and New testament author was originally known as Saul?",
+                "ans": "Paul",
+                "ref": "Acts 13:9"
+            },
+            {
+                "pts": 200,
+                "ask": "What fisherman turned apostle was also known as Simon or Cephas?",
+                "ans": "Peter",
+                "ref": "John 1:42"
+            },
+            {
+                "pts": 300,
+                "ask": "What Old Testament prophet once had his name changed to \"Belteshazzar\"?",
+                "ans": "Daniel",
+                "ref": "Dan 1:7"
+            },
+            {
+                "pts": 400,
+                "ask": "What nickname, meaning \"Son of Encouragement,\" did the apostles give to Joseph, a Levite from Cyprus?",
+                "ans": "Barnabas",
+                "ref": "Acts 4:26"
+            },
+            {
+                "pts": 500,
+                "ask": "What nickname did Jesus give to the disciple brothers James and John?",
+                "ans": "Boanerges, or Sons of Thunder",
+                "ref": "Mark 3:17"
+            }
+        ]
+    },
+    {
+        "section": "A-men Brother",
+        "intro": "When you see a letter or word in quotation marks in the title of a quiz in _A_ to _Z_ _Bible Trivia_, you know that that letter or word will appear in the answer to those quiz questions. All of the answers to these questions are men's names staring with _A_",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What man, brother of Moses, was priest for the nation of Israel?",
+                "ans": "Aaron",
+                "ref": "Exodus 4:14, 28:1"
+            },
+            {
+                "pts": 200,
+                "ask": "What Caesar ordered the census that brought Mary, expecting the baby Jesus, to Bethlehem?",
+                "ans": "Augustus",
+                "ref": "Luke 2:1-5"
+            },
+            {
+                "pts": 300,
+                "ask": "What man, with a name like a Roman god, became a powerful preacher of Christ in the early church?",
+                "ans": "Apollos",
+                "ref": "Acts 18:24-26"
+            },
+            {
+                "pts": 400,
+                "ask": "What Old Testament prophet was a shepherd from Tekoa?",
+                "ans": "Amos",
+                "ref": "Amos 1:1"
+            },
+            {
+                "pts": 500,
+                "ask": "What cousin of King Saul served as commander of Saul's army?",
+                "ans": "Abner",
+                "ref": "1 Samuel 14:51, 17:55"
+            }
+        ]
+    },
+    {
+        "section": "Ark of the Covenant",
+        "intro": "No, Indiana Jones didn't actually find the ark--that's just Hollywood hype. But the real ark of the covenant was a pretty dramatic thing itself. What do you remember about it?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What precious metal covered the ark and its carrying poles?",
+                "ans": "gold",
+                "ref": "Exodus 25:10-14"
+            },
+            {
+                "pts": 200,
+                "ask": "What leader, shortly before his death, gave orders to place the Book of the Law beside the ark?",
+                "ans": "Moses",
+                "ref": "Deuteronomy 31:24-26"
+            },
+            {
+                "pts": 300,
+                "ask": "Which tribe of Israel had responsibility for moving the ark?",
+                "ans": "Levi",
+                "ref": "Deuteronomy 10:8"
+            },
+            {
+                "pts": 400,
+                "ask": "What enemies of Israel captured the ark in the battle?",
+                "ans": "the Philistines",
+                "ref": "1 Samuel 4:10-11"
+            },
+            {
+                "pts": 500,
+                "ask": "What river stopped flowing when priests carrying the ark reached the water's edge?",
+                "ans": "the Jordan",
+                "ref": "Joshua 3:15-16"
+            }
+        ]
+    }
+]
