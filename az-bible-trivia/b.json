@@ -36,38 +36,110 @@
         ]
     },
     {
-        "section": "",
-        "intro": "",
+        "section": "Births Foretold",
+        "intro": "Sure, your mom knew you were coming months before you were born... but what about those Bible babies predicted long before they were even conceived? Tell us what you remember about these special births.",
         "questions": [
             {
                 "pts": 100,
-                "ask": "",
-                "ans": "",
-                "ref": ""
+                "ask": "What strongman's birth was foretold to his father, Manoah?",
+                "ans": "Samson",
+                "ref": "Judges 13:2-3, 24"
             },
             {
                 "pts": 200,
-                "ask": "",
-                "ans": "",
-                "ref": ""
+                "ask": "What angel announced the birth of Jesus to His mother, Mary?",
+                "ans": "Gabriel",
+                "ref": "Luke 1:26-31"
             },
             {
                 "pts": 300,
-                "ask": "",
-                "ans": "",
-                "ref": ""
+                "ask": "What son's birth was foretold to his ninety-nine-year-old father, Abraham?",
+                "ans": "Isaac",
+                "ref": "Genesis 18:10-11, 21:1-5"
             },
             {
                 "pts": 400,
-                "ask": "",
-                "ans": "",
-                "ref": ""
+                "ask": "What \"wild donkey of a man's\" birth was foretold to his mother, Hagar?",
+                "ans": "Ishmael",
+                "ref": "Genesis 16:7-12"
             },
             {
                 "pts": 500,
-                "ask": "",
-                "ans": "",
-                "ref": ""
+                "ask": "What boy, destined to become king at age height, had his birth foretold by a man of God to the wicked King Jeroboam?",
+                "ans": "Josiah",
+                "ref": "1 Kings 13:1-2"
+            }
+        ]
+    },
+    {
+        "section": "Bread",
+        "intro": "\"It's the best thing since sliced bread,\" they say. Well, here's the best thing before sliced bread - unsliced bread! What do you know about bread in the Bible?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What type words follow Jesus' statement, \"I am the bread...\"?",
+                "ans": "of life",
+                "ref": "John 6:35"
+            },
+            {
+                "pts": 200,
+                "ask": "How many loaves of bread, along with two fish, did Jesus turn into a meal for five thousand men?",
+                "ans": "five",
+                "ref": "Matthew 14:17-21"
+            },
+            {
+                "pts": 300,
+                "ask": "What kind of bread were the Israelites to eat in their Passover celebration?",
+                "ans": "unleavened",
+                "ref": "Numbers 9:10-11"
+            },
+            {
+                "pts": 400,
+                "ask": "What prophet requested bread from a destitute widow - who then received a miraculous supply of flour and oil?",
+                "ans": "Elijah",
+                "ref": "1 Kings 17:9-16"
+            },
+            {
+                "pts": 500,
+                "ask": "Besides the breaking if bread, what is one of three other things the early church devoted itself to?",
+                "ans": "the apostles' teaching, fellowship, or prayer",
+                "ref": "Acts 2:42"
+            }
+        ]
+    },
+    {
+        "section": "\"B\"-ware!",
+        "intro": "Those quotation marks tell you that all of the answers to these questions will start with letter B. Are you ready? \"B\" alert now...",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Where did God confuse the language of prideful people trying to build a tower to heaven?",
+                "ans": "Babel",
+                "ref": "Genesis 11:1-9"
+            },
+            {
+                "pts": 200,
+                "ask": "What product were the Israelites, as slaves of Egypt, forced to make?",
+                "ans": "bricks",
+                "ref": "Exodus 5:4-8"
+            },
+            {
+                "pts": 300,
+                "ask": "What greedy prophet was saved from death by a talking donkey?",
+                "ans": "Balaam",
+                "ref": "Numbers 22:21-33"
+            },
+            {
+                "pts": 400,
+                "ask": "What typical condition of Elisha was once mocked by young people - leading to their mauling by bears?",
+                "ans": "baldness",
+                "ref": "2 Kings 2:23-24"
+            },
+            {
+                "pts": 500,
+                "ask": "What powerful creature, described in the book of Job, has a tail \"like a cedar\"",
+                "ans": "behemoth",
+                "ref": "Job 40:15-24"
             }
         ]
     }
