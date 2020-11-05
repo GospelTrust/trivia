@@ -1,0 +1,146 @@
+[
+    {
+        "section": "Canaan Land",
+        "intro": "Ah, the \"promised land\" - sounds peaceful and serene, doens't it? Well, not exactly... Canaan Land brought its own set of challenges to the Israelites. How much do you remember from your Bible?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What patriarch was promised the land of Canaan by God?",
+                "ans": "Abraham",
+                "ref": "Genesis 17:3-8"
+            },
+            {
+                "pts": 200,
+                "ask": "What two foods were said to flow in the land of Canaan",
+                "ans": "milk and honey",
+                "ref": "Numbers 13:1,27"
+            },
+            {
+                "pts": 300,
+                "ask": "What leader only saw Canaan from a distance, after leading the Israelites on a forty-year journey there?",
+                "ans": "Moses",
+                "ref": "Deuteronomy 32:48-52"
+            },
+            {
+                "pts": 400,
+                "ask": "what disaster caused Jacob to send his sons from Canaan to Egypt?",
+                "ans": "famine",
+                "ref": "Genesis 42:1-5"
+            },
+            {
+                "pts": 500,
+                "ask": "What did the fearful Israelite spies who explored Canaan say they looked like compared to the giants they saw",
+                "ans": "grasshoppers",
+                "ref": "Numbers 13:33"
+            }
+        ]
+    },
+    {
+        "section": "Corinth",
+        "intro": "Talk about staying power... you'll still find the city of Corinth on the map of modern Greece, two thousand years after the apostle Paul wrote letters to a church there! What do you know about their correspondence?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Which of these three - faith, hope, or love - did Paul say was greatest in a letter to Christian at Corinth?",
+                "ans": "love",
+                "ref": "1 Corinthians 13:13"
+            },
+            {
+                "pts": 200,
+                "ask": "What \"prickly\" physical ailment did Paul write about to the church at Corinth?",
+                "ans": "a thorn in the flesh",
+                "ref": "2 Corinthians 12:7"
+            },
+            {
+                "pts": 300,
+                "ask": "What man, along with his wife Priscilla, moved to Corinth from Italy when all Jews were odered to leave Rome?",
+                "ans": "Aquila",
+                "ref": "Acts 18:1-2"
+            },
+            {
+                "pts": 400,
+                "ask": "Who, besides Jews, did Paul preach to every Sabbath day in the Corinth synagogue?",
+                "ans": "Greeks",
+                "ref": "Acts 18:4"
+            },
+            {
+                "pts": 500,
+                "ask": "What man, for whom a New Testament book is named, traveled to Corinth to help pick up an offering for needy saints?",
+                "ans": "Titus",
+                "ref": "2 Corinthians 8:16-19"
+            }
+        ]
+    },
+    {
+        "section": "Creative Answers",
+        "intro": "Okay, \"creative answers\" is a nice way of saying \"lies.\" There were some real whoppers told in the Bible! Show us what you know about them",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What disciple, watching Jesus' arrest and trial, claimed three times that he didn't know the Lord?",
+                "ans": "Peter",
+                "ref": "Matthew 26:69-75"
+            },
+            {
+                "pts": 200,
+                "ask": "What relationship did Abram claim to his wife, Sarai, to try to gain favor with the Egyptians?",
+                "ans": "brother to sister",
+                "ref": "Genesis 12:10-20"
+            },
+            {
+                "pts": 300,
+                "ask": "What did the murderous King Herod tell wise men he wanted to do to the young boy Jesus?",
+                "ans": "worship Him",
+                "ref": "Matthew 2:7-8"
+            },
+            {
+                "pts": 400,
+                "ask": "What husband and wife died after lying about the amount of money they gave as an offering?",
+                "ans": "Ananias and Sapphira",
+                "ref": "Acts 5:1-11"
+            },
+            {
+                "pts": 500,
+                "ask": "What explaination did Jewsish priests and Roman soldiers give for the disappearance of Jesus' body after the Resurrection?",
+                "ans": "that it was stolen by the disciples",
+                "ref": "Matthew 28:11-15"
+            }
+        ]
+    },
+    {
+        "section": "\"C\"",
+        "intro": "The C in this quiz title is in quotation marks - and that's your hint that all of the answers begin with the third letter of the alphabet. Let's \"c\" how you do with these question!",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did Jesus say was more likely to go through the eye of a needle than for a rich man to enter heaven?",
+                "ans": "camel",
+                "ref": "Matthew 19:24"
+            },
+            {
+                "pts": 200,
+                "ask": "What occupation did Joseph, Jesus' earhtly father, practice?",
+                "ans": "carpentry",
+                "ref": "Matthew 13:53-55"
+            },
+            {
+                "pts": 300,
+                "ask": "What moldable material, according to Jeremiah, represented Israel in the hands of God?",
+                "ans": "clay",
+                "ref": "Jeremiah 18:1-6"
+            },
+            {
+                "pts": 400,
+                "ask": "What color did Isaiah use to describe sin",
+                "ans": "crimson",
+                "ref": "Isaiah 1:18"
+            },
+            {
+                "pts": 500,
+                "ask": "What vegetable did the complaining Israelites recall from their years of slavery in Egypt",
+                "ans": "cucumbers",
+                "ref": "Numbers 11:4-5"
+            }
+        ]
+    }
+]
