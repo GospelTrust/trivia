@@ -1,0 +1,146 @@
+[
+    {
+        "section": "Daniel's Story",
+        "intro": "Any kid in Sunday school can give you the highlights of Daniel's story. What do you know about him?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What illegal activity resulted in Daniel being thrown into the lion's den?",
+                "ans": "praying to God",
+                "ref": "Daniel 6:6-14"
+            },
+            {
+                "pts": 200,
+                "ask": "What are the better-known names of Daniel's friends Hananiah, Mishael, and Azariah?",
+                "ans": "Shadrach, Meshach, and Abednego",
+                "ref": "Daniel 1:7"
+            },
+            {
+                "pts": 300,
+                "ask": "What miraculous sign, interpreted by Daniel, foretold the doom of King Belshazzar?",
+                "ans": "the handwriting on the wall",
+                "ref": "Daniel 5:1-31"
+            },
+            {
+                "pts": 400,
+                "ask": "What was the composition of the feet of an enormous statue in King Nebuchadnezzar's dream - explained by Daniel?",
+                "ans": "iron and clay",
+                "ref": "Daniel 2:32-33"
+            },
+            {
+                "pts": 500,
+                "ask": "What angel appears twice in the story of Daniel to explain the prophet's visions?",
+                "ans": "Gabriel",
+                "ref": "Daniel 8:15-16, 9:21"
+            }
+        ]
+    },
+    {
+        "section": "Demons Begone",
+        "intro": "They call it an \"exocism\" - making a demon (or demons) leave a possessed person. Kind of creepy, huh? It happened a lot in Bible times - how many do you recall?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What kind of animals rushed into a lake and drowned after receiving demons cast from humans?",
+                "ans": "pigs",
+                "ref": "Matthew 8:28-32"
+            },
+            {
+                "pts": 200,
+                "ask": "What name did a wild man, possessed by many demons, give in answer to Jesus's question?",
+                "ans": "Legion",
+                "ref": "Mark 5:6-9"
+            },
+            {
+                "pts": 300,
+                "ask": "How many demons were cast out of Mary Magdalene?",
+                "ans": "seven",
+                "ref": "Luke 8:2"
+            },
+            {
+                "pts": 400,
+                "ask": "What \"skill\" did a young slave girl lose when Paul cast a demon from her?",
+                "ans": "fortune-telling",
+                "ref": "Acts 16:16-19"
+            },
+            {
+                "pts": 500,
+                "ask": "What specific activity did Jesus sometimes forbid to newly cast-out demons?",
+                "ans": "speaking",
+                "ref": "Mark 1:34, Luke 4:40-41"
+            }
+        ]
+    },
+    {
+        "section": "Disasters",
+        "intro": "Long before the Titanic tragedy or the San Francisco earthquake, there were major disasters in the Bible. Tell us what you know about these five.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What widespread lack of food forced the patriarch Isaac to leave his home and move to another country?",
+                "ans": "famine",
+                "ref": "Genesis 26:1"
+            },
+            {
+                "pts": 200,
+                "ask": "WHat swarming insects stripped Egypt of every green plant in the eight plague called down by Moses?",
+                "ans": "locusts",
+                "ref": "Exodus 10:13-15"
+            },
+            {
+                "pts": 300,
+                "ask": "What transportation disaster befell the apostle Paul as he was traveling to Rome to stand trial before Caesar?",
+                "ans": "shipwreck",
+                "ref": "Acts 27:21-44"
+            },
+            {
+                "pts": 400,
+                "ask": "What fraction of Earth's population is killed by the horses and riders of the Revelation's sixth trupet judgment?",
+                "ans": "one-third",
+                "ref": "Revelation 9:13-19"
+            },
+            {
+                "pts": 500,
+                "ask": "What collapsed and killed eighteen people in a \"news event\" that Jesus used to encourage repentance?",
+                "ans": "a tower",
+                "ref": "Luke 13:2-5"
+            }
+        ]
+    },
+    {
+        "section": "\"D\"-Tails",
+        "intro": "There's a set of quotation marks around that D, so you already have a clue as to how the answers to these five questions begin.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What kind of bird, released from the ark, brought an olive leaf back to Noah?",
+                "ans": "dove",
+                "ref": "Genesis 8:11"
+            },
+            {
+                "pts": 200,
+                "ask": "What substance did God use to form the first man?",
+                "ans": "dust",
+                "ref": "Genesis 2:7"
+            },
+            {
+                "pts": 300,
+                "ask": "What prophetess, the wife of Lappidoth, was a judge of Israel?",
+                "ans": "Deborah",
+                "ref": "Judges 4:4"
+            },
+            {
+                "pts": 400,
+                "ask": "What did scoffers accuse the disciples of when they spoke in tongues at Pentecost?",
+                "ans": "drunkenness",
+                "ref": "Acts 2:1-15"
+            },
+            {
+                "pts": 500,
+                "ask": "What Philistine idol fell over and broke in pieces when the ark of the covenant was placed nearby?",
+                "ans": "Dagon",
+                "ref": "1 Samuel 5:1-5"
+            }
+        ]
+    }
+]
