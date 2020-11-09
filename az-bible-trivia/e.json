@@ -1,0 +1,146 @@
+[
+       {
+        "section": "Eathquake!",
+        "intro": "Talk about shaking things up... earthquakes are a relatively common occurence in the pages of the Bible. How's your seismological knowledge?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What kind of creature started an earthquake by rolling back the stone that sealed Jesus' tomb?",
+                "ans": "an angel",
+                "ref": "Matthew 28:1-4"
+            },
+            {
+                "pts": 200,
+                "ask": "What mountain, where Moses received the Ten Commandments, shook as the Lord came down on it?",
+                "ans": "Mount Sinai",
+                "ref": "Exodus 19:18-19"
+            },
+            {
+                "pts": 300,
+                "ask": "What missionary companion of Paul experienced an earthquake in a Philippian jail?",
+                "ans": "Silas",
+                "ref": "Acts 16:25-28"
+            },
+            {
+                "pts": 400,
+                "ask": "What prophet went through an earthquake only to learn that God spoke in a gentle whisper?",
+                "ans": "Elijah",
+                "ref": "1 Kings 19:11-13"
+            },
+            {
+                "pts": 500,
+                "ask": "What is one of three miracles accompanying the earthquake that occurred at the moment of Jesus' death?",
+                "ans": "temple curtain torn from top to bottom; tombs broke open; bodies of dead saints raised to life",
+                "ref": "Matthew 27:50-53"
+            }
+        ]
+    },
+    {
+        "section": "Engaging stories",
+        "intro": "Yes, this quiz title has a double meaning - the stories are \"engaging\" in that they catch your interest... but they're also all about people getting married. What do you know about these Bible couples?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What man was planning to wed Marry when she was found to be pregnant throught the Holy Spirit?",
+                "ans": "Joseph",
+                "ref": "Matthew 1:18"
+            },
+            {
+                "pts": 200,
+                "ask": "WHat woman lay at the feet of Boaz in a threshing floor - initiating a relationshiop that culminated in marriage?",
+                "ans": "Ruth",
+                "ref": "Ruth 3:7-8, 4:13"
+            },
+            {
+                "pts": 300,
+                "ask": "What woman was Jacob tricked into marrying by his devious uncle Laban?",
+                "ans": "Leah",
+                "ref": "Genesis 29:21-23"
+            },
+            {
+                "pts": 400,
+                "ask": "What nationality of woman did Samon, to his parents' disgust, seek out for a wife?",
+                "ans": "Philistine",
+                "ref": "Judges 14:1-3"
+            },
+            {
+                "pts": 500,
+                "ask": "What daughter did Reuel, a priest of Midian, give to Moses as his wife?",
+                "ans": "Zipporah",
+                "ref": "Exodus 2:16-21"
+            }
+        ]
+    },
+    {
+        "section": "\"E\"-vents",
+        "intro": "And now the quotation marks surround the fifth letter of the alphabet - with every answer in this quiz starting with E. Excellent!",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Where did God plants a garden and place the man, Adam, He had created?",
+                "ans": "Eden",
+                "ref": "Genesis 2:8"
+            },
+            {
+                "pts": 200,
+                "ask": "What nationality was the man a young Moses killed and hid in the sand?",
+                "ans": "Egyptian",
+                "ref": "Exodus 2:11-12"
+            },
+            {
+                "pts": 300,
+                "ask": "What kind of man did the apostle Philip find in a chariot, reading from the book of Isaiah?",
+                "ans": "Ethiopian eunuch (either answer acceptable)",
+                "ref": "Acts 8:26-35"
+            },
+            {
+                "pts": 400,
+                "ask": "What kind of lamb did the prophet Nathan mention in a story that exposed sin in King David's life?",
+                "ans": "ewe",
+                "ref": "2 Samuel 12:1-6"
+            },
+            {
+                "pts": 500,
+                "ask": "What priestly garment did David use to ask God whether he should pursue the Amalekites, who had kidnapped tow of his wives?",
+                "ans": "ephod",
+                "ref": "1 Samuel 30:1-8"
+            }
+        ]
+    },
+    {
+        "section": "Ezekiel's visions",
+        "intro": "If you eat pizza right before bedtime, you might have some strange dreams... but probably nothing like the visions the prophet Ezekiel had! What do you recall of them?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "WHat round objects did Ezekiel see accompanying four unusual \"living creatures\"?",
+                "ans": "wheels",
+                "ref": "Ezekiel 1:15-21"
+            },
+            {
+                "pts": 200,
+                "ask": "What gruesome things did Ezerkiel see filling a valley?",
+                "ans": "dry bones",
+                "ref": "Ezekiel 37:1-14"
+            },
+            {
+                "pts": 300,
+                "ask": "What heavenly body did Ezekiel see some two dozen men bowing to at the entrance to God's temple",
+                "ans": "the sun",
+                "ref": "Ezekiel 8:16"
+            },
+            {
+                "pts": 400,
+                "ask": "What unusaul \"meal\" did Ezekiel eat in the vision that brought him God's calling?",
+                "ans": "a scroll, or the \"roll of a book\"",
+                "ref": "Ezekiel 2:9-3:2"
+            },
+            {
+                "pts": 500,
+                "ask": "What kind of tool did Ezekiel see a bronzed man using on a new temple on a high mountain?",
+                "ans": "a measuring rod, or reed",
+                "ref": "Ezekiel 40:1-3"
+            }
+        ]
+    }
+]
