@@ -1,0 +1,146 @@
+[
+   {
+     "section": "Fathers",
+     "intro": "THey say George Washington was the \"father of his country\" - but who was the father of George? Here are some questions about biblical fathers - we'll name the kids, you name the dad",
+     "questions": [
+         {
+             "pts": 100,
+             "ask": "Who was the father of Solomon",
+             "ans": "David",
+             "ref": "2 Samuel 12:24"
+         },
+         {
+             "pts": 200,
+             "ask": "Who was the father of Benjamin",
+             "ans": "Jacob, or Israel",
+             "ref": "Genesis 46:19"
+         },
+         {
+             "pts": 300,
+             "ask": "Who was the father of James and John?",
+             "ans": "Zebedee",
+             "ref": "Mark 1:19-20"
+         },
+         {
+             "pts": 400,
+             "ask": "Who was the father of Joshua?",
+             "ans": "Nun",
+             "ref": "Numbers 11:28"
+         },
+         {
+             "pts": 500,
+             "ask": "Who was the father of Gershom?",
+             "ans": "Moses",
+             "ref": "Exodus 2:21-22"
+         }
+     ]
+ },
+    {
+     "section": "Filthy Animals",
+     "intro": "\"Filthy Animals\" isn't just an insult - it was a reality for the biblical Israelites. God called many animals \"unclean,\" and they were not to be touched or eaten. Tell us what you know about them.",
+     "questions": [
+         {
+             "pts": 100,
+             "ask": "What kind of animal was the \"prodigal son\" feeding when he realized he should return home to his father?",
+             "ans": "pigs",
+             "ref": "Luke 15:11-20"
+         },
+         {
+             "pts": 200,
+             "ask": "What color-changing lizard was not permitted on Israelite menus",
+             "ans": "chameleon",
+             "ref": "Leviticus 11:29-30"
+         },
+         {
+             "pts": 300,
+             "ask": "What soaring bird, mentioned in Isaiah 40, led Moses' list of flying creatures that could not be eaten?",
+             "ans": "eagle",
+             "ref": "Leviticus 11:13-19"
+         },
+         {
+             "pts": 400,
+             "ask": "What bird, which brought food to Elijiah, was deemed unclean in the laws of God",
+             "ans": "raven",
+             "ref": "1Kings 17:1-4, Deuteronomy 14:11-14"
+         },
+         {
+             "pts": 500,
+             "ask": "What beast if burden was forbidden as food to the Israelites?",
+             "ans": "camel",
+             "ref": "Leviticus 11:4"
+         }
+     ]
+ },
+ {
+     "section": "Food",
+     "intro": "They didn't have McDonald's back then, but the people of the Bible loved to eat just like we do. What do you know about biblical foods?",
+     "questions": [
+         {
+             "pts": 100,
+             "ask": "What did Samson eat from the carcass of a lion he had killed?",
+             "ans": "honey",
+             "ref": "JUdges 14:5-9"
+         },
+         {
+             "pts": 200,
+             "ask": "What insect made a large part of the diet of John the Baptist?",
+             "ans": "locusts",
+             "ref": "Matthew 3:4"
+         },
+         {
+             "pts": 300,
+             "ask": "What did Jesus eat in the presence of His disciples shortly after HIs resurrection?",
+             "ans": "broiled fish",
+             "ref": "Luke 24:36-43"
+         },
+         {
+             "pts": 400,
+             "ask": "What is one of the two kinds of cakes Abigail brought to King David to apoligize for her husband's rude behavior?",
+             "ans": "raisin or fig",
+             "ref": "1 Samuel 25:18-25"
+         },
+         {
+             "pts": 500,
+             "ask": "What kind of plants and trees did God tell Adam and Eve they could use for food?",
+             "ans": "seed bearing",
+             "ref": "Genesis 1:27-29"
+         }
+     ]
+ },
+ {
+     "section": "Future Things",
+     "intro": "You can't say what's going to happen to you tomorrow... but God knows the future as if it's the present. Show us your knowledge of the future things found in the Bible.",
+     "questions": [
+         {
+             "pts": 100,
+             "ask": "What did Jesus say He would arrive in when He returns to earth \"with power and great glory\"?",
+             "ans": "a cloud",
+             "ref": "Luke 21:27"
+         },
+         {
+             "pts": 200,
+             "ask": "What special headwear will be the heavenly reward for faithful service on earth?",
+             "ans": "a crown",
+             "ref": "2 Timothy 4:8, James 1:12"
+         },
+         {
+             "pts": 300,
+             "ask": "What two animals represent the saved and lost people of earth, whom Jesus will separate at the final judgment?",
+             "ans": "sheep and goats",
+             "ref": "Matthew 25:31-33"
+         },
+         {
+             "pts": 400,
+             "ask": "What \"lake\" is the final, eternal home for those people whose names are not found in the book of life?",
+             "ans": "the lake of fire",
+             "ref": "Revelation 20:15"
+         },
+         {
+             "pts": 500,
+             "ask": "How many years, according to John's Revelation, will Jesus reign on earth before Satan's final judgment?",
+             "ans": "one thousand",
+             "ref": "Revelation 20:6-10"
+         }
+     ]
+ }
+]
