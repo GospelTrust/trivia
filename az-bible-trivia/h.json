@@ -1,0 +1,144 @@
+[
+    {
+      "section": "Hairy People",
+      "intro": "There are plenty of things a person can be known for. Here are five Bible characters who were famous for their hair. Are you \"brushed up\" on this category?",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What Bible strongman lost his power when his long hair was cut off?",
+              "ans": "Samson",
+              "ref": "Judges 16:15-20"
+          },
+          {
+              "pts": 200,
+              "ask": "What twin brother of Jacob was born hairy?",
+              "ans": "Esau",
+              "ref": "Genesis 25:25-26"
+          },
+          {
+              "pts": 300,
+              "ask": "What son of David cut his long hair whenever it became too heavy for him?",
+              "ans": "Absalom",
+              "ref": "2 Samuel 14:25-26"
+          },
+          {
+              "pts": 400,
+              "ask": "What did the apostle Paul say that long hair is to a woman?",
+              "ans": "glory",
+              "ref": "1 Corinthians 11:15"
+          },
+          {
+              "pts": 500,
+              "ask": "What does the \"lover\" in the Song of Songs twice compare his \"beloved's\" hair to?",
+              "ans": "a flock of goats",
+              "ref": "Song of Songs 4:1, 6:5"
+          }
+      ]
+  },
+  {
+      "section": "Heavenly Sounds",
+      "intro": "Now hear this... The Bible tells of many different sounds from heaven. What do you know about the five following?",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What event in Jesus' life featured a voice from heaven saying, \"This is my Son, whom I love\"?",
+              "ans": "His baptism",
+              "ref": "Matthew 3:16-17"
+          },
+          {
+              "pts": 200,
+              "ask": "What sound from heaven accompanied God's work at Pentecost?",
+              "ans": "a violent, or mighty, wind",
+              "ref": "Acts 2:1-4"
+          },
+          {
+              "pts": 300,
+              "ask": "What musical instrument accomapanies the song of victorious saints in heaven, according to John's Revelation?",
+              "ans": "harps",
+              "ref": "Revelation 15:1-4"
+          },
+          {
+              "pts": 400,
+              "ask": "What sound, according to the apostle Paul, causes every knee in heaven to bow?",
+              "ans": "the name of Jesus",
+              "ref": "Philippians 2:10"
+          },
+          {
+              "pts": 500,
+              "ask": "What does the voice of the \"living creature\" resemble when the Lamb breaks the first seal on the seven-sealed book of Revelation?",
+              "ans": "thunder",
+              "ref": "Revelation 5:1, 6:1"
+          }
+      ]
+  }, {
+      "section": "\"H\"ello There",
+      "intro": "The \"H\" in quotation marks means every answer will start with that letter. And here's another hint: Each answer is a person's name...",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What woman, the wife of Elkanah, was mother of the prophet Samuel?",
+              "ans": "Hannah",
+              "ref": "1 Samuel 1:19-20"
+          },
+          {
+              "pts": 200,
+              "ask": "What Old Testament prophet, at God's command, married an adulterous woman named Gomer?",
+              "ans": "Hosea",
+              "ref": "Hosea 1:2-3"
+          },
+          {
+              "pts": 300,
+              "ask": "What wicked New Testament king \"was eaten by worms and died\" for allowing people to call him a god?",
+              "ans": "Herod",
+              "ref": "Acts 12:21-23"
+          },
+          {
+              "pts": 400,
+              "ask": "What king of Tyre supplied cedar logs to Solomon for building the Lord's temple?",
+              "ans": "Hiram",
+              "ref": "1 Kings 5:1-12"
+          },
+          {
+              "pts": 500,
+              "ask": "What prophetess told the faithful King Josiah he would not see the disaster God was bringing on his unfaithful nation?",
+              "ans": "Huldah",
+              "ref": "2 Kings 22:14-20"
+          }
+      ]
+  }, {
+      "section": "\"Holy,\" Holy, Holy",
+      "intro": "You'll note that the word \"holy\" is in quotation marks - so every answer will be a phrase featuring that word.",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What did Jesus promise that God the Father would give to anyone who asked?",
+              "ans": "the Holy Spirit",
+              "ref": "Luke 11:11-13"
+          },
+          {
+              "pts": 200,
+              "ask": "What did God tell Moses he was standing on when he approached the burning bush?",
+              "ans": "holy ground",
+              "ref": "Exodus 3:3-5"
+          },
+          {
+              "pts": 300,
+              "ask": "What did John call the new Jerusalem he saw in a vision, coming down out of heaven?",
+              "ans": "the Holy City",
+              "ref": "Revelation 21:1-2"
+          },
+          {
+              "pts": 400,
+              "ask": "What did Paul tell Timothy that Christians should lift up in prayer?",
+              "ans": "holy hands",
+              "ref": "1 Timothy 2:8"
+          },
+          {
+              "pts": 500,
+              "ask": "What four-word phrase is used often in the book of Isaiah to describe the Lord?",
+              "ans": "\"Holy One of Israel\"",
+              "ref": "Isaiah 49:7"
+          }
+      ]
+  }
+]
