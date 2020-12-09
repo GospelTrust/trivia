@@ -1,0 +1,143 @@
+[
+  {
+      "section": "\"I\" know",
+      "intro": "We certainly hope you know these answers, which all begin with the letter I. Go ahead - impress us with your intellect!",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What lodging place in Bethlehem turned away Joseph and his very expectant wife, Mary?",
+              "ans": "inn",
+              "ref": "Luke 2:4-7"
+          },
+          {
+              "pts": 200,
+              "ask": "What metal, used to sharpen other like metal, does Proverbs compare to friends?",
+              "ans": "iron",
+              "ref": "Proverbs 27:17"
+          },
+          {
+              "pts": 300,
+              "ask": "What kind of place was Patmos, where John received his Revelation of Jesus Crhist?",
+              "ans": "island",
+              "ref": "Revelation 1:9"
+          },
+          {
+              "pts": 400,
+              "ask": "What major prophet had a son named Shear-Jashub?",
+              "ans": "Isaiah",
+              "ref": "Isaiah 7:3"
+          },
+          {
+              "pts": 500,
+              "ask": "What does the apostle Paul urge Christians to be \"...of God\"",
+              "ans": "imitators",
+              "ref": "Ephesians 5:1"
+          }
+      ]
+  }, {
+      "section": "Imprisoned",
+      "intro": "Long before Monopoly popularized the \"Get Out of Jail Free\" card, these Bible characters found themselves stuck in a jail cell without one! What do you know about their stories?",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What handsome son of Jacob was imprisoned after a false report from Potiphar's wife?",
+              "ans": "Joseph",
+              "ref": "Genesis 39:2-20"
+          },
+          {
+              "pts": 200,
+              "ask": "What wandering preacher was imprisoned for challenging the adulterous marriage of King Herod?",
+              "ans": "John the Baptist",
+              "ref": "Mark 6:14-18"
+          },
+          {
+              "pts": 300,
+              "ask": "What notorious prisoner gained his freedom from Pontius Pilate a Jesus was sentenced to crucifixion?",
+              "ans": "Barabbas",
+              "ref": "Matthew 27:24-26"
+          },
+          {
+              "pts": 400,
+              "ask": "What \"weeping prophet\" was imprisoned in a dungeon on false charges of deserting to the enemy?",
+              "ans": "Jeremiah",
+              "ref": "Jeremiah 37:12-16"
+          },
+          {
+              "pts": 500,
+              "ask": "What two things were Paul and Silas doing at midnight while imprisoned in a Philippian jail?",
+              "ans": "praying and singing to God",
+              "ref": "Acts 16:22-25"
+          }
+      ]
+  }, {
+      "section": "Insects",
+      "intro": "Don't let this category bug you... All you need to do is answer five questions involving insects in the Bible",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What hardworking insect does the book of Proverbs tell lazy people to learn from?",
+              "ans": "ants",
+              "ref": "Proverbs 6:6-8"
+          },
+          {
+              "pts": 200,
+              "ask": "What insects are mentioned by the writer of the book of James as destroyers of clothing?",
+              "ans": "moths",
+              "ref": "James 5:2"
+          },
+          {
+              "pts": 300,
+              "ask": "What insect swarmed Egypt in the fourth plague on Pharaoh - but stayed out of the land of Goshen where God's people lived?",
+              "ans": "flies",
+              "ref": "Exodus 8:20-24"
+          },
+          {
+              "pts": 400,
+              "ask": "What tiny insect did Jesus say the hypocritical Pharisees strained out of their food, only to \"swallow a camel\"?",
+              "ans": "gnat",
+              "ref": "Matthew 23:23-24"
+          },
+          {
+              "pts": 500,
+              "ask": "What stinging insect did God use to drive enemy peoples out of the Promised Land?",
+              "ans": "hornet",
+              "ref": "Joshua 24:11-12"
+          }
+      ]
+  }, {
+      "section": "Isaac",
+      "intro": "We're not talking about the hymn writer, Watts; the scientist, Newton; or the science-fiction wiz, Asimov... The Isaac in this category is a biblical patriarch. How well do you know his story?",
+      "questions": [
+          {
+              "pts": 100,
+              "ask": "What \"father of many nations\" was first of all father to Isaac?",
+              "ans": "Abraham",
+              "ref": "Genesis 17:5, 21:3"
+          },
+          {
+              "pts": 200,
+              "ask": "What did Isaac's elderly mother, Sarah, do when she was told she would give birth to Isaac?",
+              "ans": "laugh",
+              "ref": "Genesis 18:10-12"
+          },
+          {
+              "pts": 300,
+              "ask": "What was the name of Isaac's older half-brother?",
+              "ans": "Ishmael",
+              "ref": "Genesis 25:12"
+          },
+          {
+              "pts": 400,
+              "ask": "Where did God tell Isaac's father sacrifice the young man as a burnt offering?",
+              "ans": "Moriah",
+              "ref": "Genesis 22:1-2"
+          },
+          {
+              "pts": 500,
+              "ask": "What did the Philistines, envious of Isaac's wealth in flocks and herds, try to destroy?",
+              "ans": "wells",
+              "ref": "Genesis 26:12-15"
+          }
+      ]
+  }
+]
