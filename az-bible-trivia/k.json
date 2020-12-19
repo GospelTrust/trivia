@@ -1,0 +1,143 @@
+[
+   {
+        "section": "Kingdom of Heaven",
+        "intro": "Jesus had a lot to say about the kingdom of heaven - what it's like, where you find it, who's a part of it. How well do you remember His words?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What tiny seed did Jesus liken the kingdom of heaven to?",
+                "ans": "mustard",
+                "ref": "Matthew 13:31-32"
+            },
+            {
+                "pts": 200,
+                "ask": "What door-openers to the kingdom of heaven did Jesus say He would give to Peter?",
+                "ans": "keys",
+                "ref": "Matthew 16:15-19"
+            },
+            {
+                "pts": 300,
+                "ask": "What group of people, whom the disciples tried to keep from Jesus, did Jesus say are true possessors of the kingdom of heaven?",
+                "ans": "little children",
+                "ref": "Matthew 19:14"
+            },
+            {
+                "pts": 400,
+                "ask": "What repetitive phrase, according to Jesus, will not guarantee entry into the kingdom of heaven?",
+                "ans": "\"Lord, Lord\"",
+                "ref": "Matthew 7:21"
+            },
+            {
+                "pts": 500,
+                "ask": "What two groups, accorsing to Jesus in the Beatitudes, would inherit the kingdom of heaven?",
+                "ans": "the poor in spirit, those persecuted for righteousness",
+                "ref": "Matthew 5:3, 10"
+            }
+        ]
+    }, {
+        "section": "Kings of Earth",
+        "intro": "We're not talking Burger King, here... we want to know what you know about the men who ruled the nations of Bible times.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Which apostle defended himself before a king named Agrippa - and tried to convert him in the process?",
+                "ans": "Paul",
+                "ref": "Acts 25:13-26:28"
+            },
+            {
+                "pts": 200,
+                "ask": "What king unwittingly signed a decree that caused his friend, Daniel, to be thrown into a den of lions?",
+                "ans": "Darius",
+                "ref": "Daniel 6:1-16"
+            },
+            {
+                "pts": 300,
+                "ask": "What prophet had a dramatic vision and calling from God in the year that King Uzziah died?",
+                "ans": "Isaiah",
+                "ref": "Isaiah 6:1-8"
+            },
+            {
+                "pts": 400,
+                "ask": "What king of Persia permitted the Jews in his realm to return to Jerusalem to rebuild the temple?",
+                "ans": "Cyrus",
+                "ref": "Ezra 1:1-4"
+            },
+            {
+                "pts": 500,
+                "ask": "What king of Gath fell for David's trick of feigning insanity - and let him go free",
+                "ans": "Achish",
+                "ref": "1 Samuel 21:10-15"
+            }
+        ]
+    }, {
+        "section": "Kiss Me",
+        "intro": "They weren't always romantic, but there are several stories of kisses in the Bible. What do you recall about the following?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What disciple betrayed Jesus with a kiss?",
+                "ans": "Judas Iscariot",
+                "ref": "Mark 14:43-45, John 6:70-71"
+            },
+            {
+                "pts": 200,
+                "ask": "What best friend of David kissed him when David fled from King Saul?",
+                "ans": "Jonathan",
+                "ref": "1 Samuel 20:41-42"
+            },
+            {
+                "pts": 300,
+                "ask": "What part of Jesus' body did a sinful woman anoint with perfume and kiss during a dinner at a Pharisee's house?",
+                "ans": "His feet",
+                "ref": "Luke 7:36:38"
+            },
+            {
+                "pts": 400,
+                "ask": "What future wife did Jacob kiss the first time he met her - as she watered a flock of sheep?",
+                "ans": "Rachel",
+                "ref": "Genesis 29:9-11"
+            },
+            {
+                "pts": 500,
+                "ask": "What kind of kiss did the apostle Paul tell the Corinthians to greet each other with?",
+                "ans": "holy",
+                "ref": "1 Corinthians 16:20, 2 Corinthians 13:12"
+            }
+        ]
+    }, {
+        "section": "Knock, Knock",
+        "intro": "No, it's not the opening of a silly joke. In this category, you'll need to show your knowledge of \"knocking\" in the Bible",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What two commands on prayer, besides \"knock,\" did Jesus give during His Sermon on the Mount?",
+                "ans": "ask and seek",
+                "ref": "Matthew 7:7-8"
+            },
+            {
+                "pts": 200,
+                "ask": "What servant girl, in her excitement at learning Peter was out of prison and at the door, left him knocking while she ran to tell the other disciples?",
+                "ans": "Rhoda",
+                "ref": "Acts 12:12-16"
+            },
+            {
+                "pts": 300,
+                "ask": "What did Jesus say servants should be doing when their master, returning from a wedding banquet, knocked on the door?",
+                "ans": "watching",
+                "ref": "Luke 12:35-38"
+            },
+            {
+                "pts": 400,
+                "ask": "What did Jesus tell church members in Laodicea He would do with them if they opened the door to His knocking?",
+                "ans": "eat with them",
+                "ref": "Revelation 3:20"
+            },
+            {
+                "pts": 500,
+                "ask": "What kind of knocking accompanied the handwriting on the wall that terrified the Babylonian king Belshazzar?",
+                "ans": "the knocking together of the king's knees",
+                "ref": "Daniel 5:1-6"
+            }
+        ]
+    }
+]
