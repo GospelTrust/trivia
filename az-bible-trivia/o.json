@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Occupations",
+        "intro": "That's the big word for \"jobs\" and Bible people had them just like we do today. Tell us what you know about these ancient occupations",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What was Matthew's job before he became a disciple of Jesus?",
+                "ans": "tax collector",
+                "ref": "Matthew 9:9"
+            },
+            {
+                "pts": 200,
+                "ask": "What job did the youthful David have before his anointing as king?",
+                "ans": "shepherd",
+                "ref": "1 Samuel 16:11-13"
+            },
+            {
+                "pts": 300,
+                "ask": "Who was one of the two royal employees who shared a jail cell with the falsely accused Joseph?",
+                "ans": "cupbearer (or butler) and baker",
+                "ref": "Genesis 40"
+            },
+            {
+                "pts": 400,
+                "ask": "What occupation did the apostle Paul have in addition to his missionary duties?",
+                "ans": "tentmaker",
+                "ref": "Acts 18:1-3"
+            },
+            {
+                "pts": 500,
+                "ask": "What was the occupation of the man Demetrius, a devotee, of the goddess Artemis, also known as Diana?",
+                "ans": "silversmith",
+                "ref": "Acts 19:24"
+            }
+        ]
+    }, {
+        "section": "Old people",
+        "intro": "None of us are getting any younger, you know. What can you recall about the elderly in the Bible?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What color hair, according to the Proverbs, is the \"splendor of the old\"?",
+                "ans": "gray",
+                "ref": "Proverbs 20:29"
+            },
+            {
+                "pts": 200,
+                "ask": "What man lived the longest life recorded in the Bible - 969 years?",
+                "ans": "Methuselah",
+                "ref": "Genesis 5:27"
+            },
+            {
+                "pts": 300,
+                "ask": "What son of Jared lived \"only\" 365 years but didn't die - because God took him away?",
+                "ans": "Enoch",
+                "ref": "Genesis 5:18, 23-24, Hebrews 11:5"
+            },
+            {
+                "pts": 400,
+                "ask": "What elderly prophetess met Mary, Joseph, and the baby Jesus at the temple and thanked God for the redemption to come?",
+                "ans": "Anna",
+                "ref": "Luke 2:36-38"
+            },
+            {
+                "pts": 500,
+                "ask": "How old was Noah when God sent the flood to destroy the earth?",
+                "ans": "six hundred",
+                "ref": "Genesis 7:11"
+            }
+        ]
+    }, {
+        "section": "\"O\" My!",
+        "intro": "Okay, here's a category where all the answers start with the letter O. Onward!",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What \"Mount of\" was frequented by Jesus?",
+                "ans": "Olives",
+                "ref": "Luke 22:39"
+            },
+            {
+                "pts": 200,
+                "ask": "What Greej letter did Jesus pair with \"Alpha\" to describe Himself?",
+                "ans": "Omega",
+                "ref": "Revelation 22:12-13"
+            },
+            {
+                "pts": 300,
+                "ask": "What kind of tree caught Absalom's head as he rode underneath on a mule, leaving him hanging?",
+                "ans": "oak",
+                "ref": "2 Samuel 18:9-10"
+            },
+            {
+                "pts": 400,
+                "ask": "What did Samuel tell King Saul is better than sacrifice?",
+                "ans": "to obey",
+                "ref": "1 Samuel 15:22-25"
+            },
+            {
+                "pts": 500,
+                "ask": "What widowed woman left her mother-in-law, Naomi, and sister-in-law, Ruth, to return to her homeland of Moab?",
+                "ans": "Orpah",
+                "ref": "Ruth 1:3-5, 14-15"
+            }
+        ]
+    }, {
+        "section": "Once Upon a Rhyme",
+        "intro": "Yes, this is a silly category... You'll need to combine two rhyming words to provide the answers to these questions.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did the first woman sew together to hide her nakedness?",
+                "ans": "Eve's leaves",
+                "ref": "Genesis 3:1-20"
+            },
+            {
+                "pts": 200,
+                "ask": "What would you call the king of Israel who stood head and shoulders above everyone else?",
+                "ans": "Tall Saul",
+                "ref": "1 Samuel 9:2"
+            },
+            {
+                "pts": 300,
+                "ask": "What would you call flowers of Sharon belonging to the Ten Commandments man?",
+                "ans": "Moses' roses",
+                "ref": "Exodus 20:1-21, Song of Songs 2:1"
+            },
+            {
+                "pts": 400,
+                "ask": "What did the apostle Paul say some Christians might do to the detriment of less mature believers?",
+                "ans": "eat meat",
+                "ref": "1 Corinthians 8:4-13"
+            },
+            {
+                "pts": 500,
+                "ask": "What might you call the flames the disciple Cephas used to warm himself the night of Jesus' arrest?",
+                "ans": "Peter's heaters",
+                "ref": "John 1:42, Luke 22:54-55"
+            }
+        ]
+    }
+]
