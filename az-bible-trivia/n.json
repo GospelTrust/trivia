@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Even before electric lightning, nighttime was a busy time for people in the Bible. What do you know about these nighttime experience?",
+        "intro": "",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Which day of creation included God making night?",
+                "ans": "the first",
+                "ref": "Genesis 1:5"
+            },
+            {
+                "pts": 200,
+                "ask": "What prophet, troubled by King Saul's waywardness, cried out all night long to God?",
+                "ans": "Samuel",
+                "ref": "1 Samuel 15:10-11"
+            },
+            {
+                "pts": 300,
+                "ask": "What supernatural source of nighttime light led the Israelites on their journey out of Egypt?",
+                "ans": "a pillar of fire",
+                "ref": "Exodus 13:18-22"
+            },
+            {
+                "pts": 400,
+                "ask": "Where was Paul, experiencing a nighttime vision of a man, invited to spread the gospel?",
+                "ans": "Macedonia",
+                "ref": "Acts 16:9-10"
+            },
+            {
+                "pts": 500,
+                "ask": "What sin did the apostle Paul tell the Thessalonians is likely to occur at night?",
+                "ans": "drunkenness",
+                "ref": "1 Thessalonians 5:7"
+            }
+        ]
+    }, {
+        "section": "Nineveh",
+        "intro": "It may have been the New York City of its time - Nineveh was an important place in need of God... Can you recall its story well enough to answer these questions?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What prophet tried to disobey God's call to preach to Nineveh - and was waylaid by a giant fish?",
+                "ans": "Jonah",
+                "ref": "Jonah 1:1-3, 17"
+            },
+            {
+                "pts": 200,
+                "ask": "How many days' warning of the destruction to come did God give Nineveh?",
+                "ans": "forty",
+                "ref": "Jonah 3:4"
+            },
+            {
+                "pts": 300,
+                "ask": "What mournful clothing did the people of Nineveh wear to show their repentance before God?",
+                "ans": "sackcloth",
+                "ref": "JOnah 3:5"
+            },
+            {
+                "pts": 400,
+                "ask": "Of 12,000, 120,000, or 1.2 million, what was the approximate population of what God called the \"great city\" of Nineveh?",
+                "ans": "120,000",
+                "ref": "Jonah 4:11"
+            },
+            {
+                "pts": 500,
+                "ask": "What \"mighty hunter\" built Nineveh shortly after Noah's time?",
+                "ans": "Nimrod",
+                "ref": "Genesis 10:8-11"
+            }
+        ]
+    }, {
+        "section": "\"N\"joy",
+        "intro": "You see those quotation marks around the letter N... so you know what each answer will begin with. Now get to it!",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Who built an ark to save his family and every type of animal from a worldwide flood?",
+                "ans": "Noah",
+                "ref": "Genesis 6"
+            },
+            {
+                "pts": 200,
+                "ask": "Who did Jesus tell an expert in the Law he should love as himself?",
+                "ans": "neighbor",
+                "ref": "Matthew 22:34-39"
+            },
+            {
+                "pts": 300,
+                "ask": "What wall-building Jewish exile has a book of the Old Testament named for him?",
+                "ans": "Nehemiah",
+                "ref": "Nehemiah 1-2:8"
+            },
+            {
+                "pts": 400,
+                "ask": "What kind of man was Samson, who was never to cut his hair?",
+                "ans": "Nazirite",
+                "ref": "Judges 13"
+            },
+            {
+                "pts": 500,
+                "ask": "What disciple first responded to news of the Messiah by saying, \"Nazareth! Can anything good comw from there?\"",
+                "ans": "Nathanael",
+                "ref": "John 1:43-51"
+            }
+        ]
+    }, {
+        "section": "Number, Number",
+        "intro": "Have you been keeping count? The Bible is full of numbers... Can you remember these?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "How many days did God use to create the world and everything in it?",
+                "ans": "six",
+                "ref": "Genesis 1:31-2:1"
+            },
+            {
+                "pts": 200,
+                "ask": "How many men did Moses send into Canaan to spy out the land?",
+                "ans": "twelve",
+                "ref": "Numbers 13:1-15"
+            },
+            {
+                "pts": 300,
+                "ask": "How many days was Lazarus in the grave before being resurrected?",
+                "ans": "four",
+                "ref": "John 11:17"
+            },
+            {
+                "pts": 400,
+                "ask": "What, according to Revelation, is the \"number of the beast\"?",
+                "ans": "666",
+                "ref": "Revelation 13:18"
+            },
+            {
+                "pts": 500,
+                "ask": "How many silver coins did Judas Iscariot receive for betraying Jesus?",
+                "ans": "thirty",
+                "ref": "Matthew 27:3-4"
+            }
+        ]
+    }
+]
