@@ -1,0 +1,143 @@
+[
+     {
+         "section": "\"M\" any are called",
+         "intro": "There they are again - the quotation marks in the quiz title. Every answer in this quiz will be a person's name starting with M",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "What leader of Israel had a staff, or rod, that turned into a snake?",
+                 "ans": "Moses",
+                 "ref": "Exodus 4:1-4"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What woman complained when her sister Mary chose to spend time with the visiting Jesus rather than help her with housework?",
+                 "ans": "Martha",
+                 "ref": "Luke 10:38-42"
+             },
+             {
+                 "pts": 300,
+                 "ask": "What man, cousin of Queen Esther, served as her advisor and saved the Jews from destruction?",
+                 "ans": "Mordecai",
+                 "ref": "Esther 2:7, 10:3"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What man was chosen by lot to be the twelfth disciple in place of the departed Judas Iscariot?",
+                 "ans": "Matthias",
+                 "ref": "Acts 1:23-26"
+             },
+             {
+                 "pts": 500,
+                 "ask": "What firstborn son of Joseph received a lesser blessing than his younger brother Ephraim from his grandfather Jacob?",
+                 "ans": "Manasseh",
+                 "ref": "Genesis 48:17-20"
+             }
+         ]
+     }, {
+         "section": "Matthew's gospel",
+         "intro": "Most of us already know there are four Gospels in the New Testament - but what do you know about stories that appear only in Matthew's Gospel?",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "What visitors, carrying gifts for the young child Jesus, are noted only in Matthew's Gospel?",
+                 "ans": "Magi or wise men",
+                 "ref": "Matthew 2:1-2"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What gem \"of great value\" did Jesus mention in a parable found only in Matthew's Gospel?",
+                 "ans": "pearl",
+                 "ref": "Matthew 13:45-46"
+             },
+             {
+                 "pts": 300,
+                 "ask": "What form of suicide used by Judas Iscariot is mentioned only in Matthew's Gospel?",
+                 "ans": "hanging",
+                 "ref": "Matthew 27:5"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What fishing tool did Jesus liken to the kingdom of heaven in a parable found only in Matthew's Gospel?",
+                 "ans": "a net",
+                 "ref": "Matthew 13:47-50"
+             },
+             {
+                 "pts": 500,
+                 "ask": "What country did Joseph, Mary, and the baby Jesus flee to for safety from King Herod, in an account found only in Matthew's Gospel?",
+                 "ans": "Egypt",
+                 "ref": "Matthew 2:13"
+             }
+         ]
+     }, {
+         "section": "Miracles",
+         "intro": "They don't call them \"miracles\" for nothing... Tell us what you know about these amazing stories from the Bible.",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "What city's walls fell at the shout of Joshua's army",
+                 "ans": "Jericho",
+                 "ref": "Joshua 6:2-5,20"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What did Jesus, in His first recorded miracle, change into wine?",
+                 "ans": "water",
+                 "ref": "John 2:1-11"
+             },
+             {
+                 "pts": 300,
+                 "ask": "In what town did Elijah bring a widow's son back to life?",
+                 "ans": "Zarephath",
+                 "ref": "1 Kings 17:8-22"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What river divided when the prophet Elisha struck it with Elijah's cloak?",
+                 "ans": "the Jordan",
+                 "ref": "2 Kings 2:12-14"
+             },
+             {
+                 "pts": 500,
+                 "ask": "What two cloth items, after being touched by the apostle Paul, were used to heal the sick and drive out demons?",
+                 "ans": "handkerchiefs and aprons",
+                 "ref": "Acts 19:11-12"
+             }
+         ]
+     }, {
+         "section": "Mounts and Mountains",
+         "intro": "Everest, McKinley, and the Matterhorn don't appear in the Bibles, but several other mounts and mountains do. What do you remember about the following?",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "What mountain chain was the final stopping point for Noah's ark?",
+                 "ans": "Ararat",
+                 "ref": "Genesis 8:14"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What mount is associated with the heavenly Jerusalem?",
+                 "ans": "Zion, or Sion",
+                 "ref": "Hebrews 12:22"
+             },
+             {
+                 "pts": 300,
+                 "ask": "What mountain did Moses climb to see the Promised Land he would not be allowed to enter?",
+                 "ans": "Pisgah",
+                 "ref": "Deuteronomy 3:21-29"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What mountain was the setting for Moses' encounter with God in a burning bush?",
+                 "ans": "Horeb",
+                 "ref": "Exodus 3:1-6"
+             },
+             {
+                 "pts": 500,
+                 "ask": "What well-known Bible character died on Mount Hor?",
+                 "ans": "Aaron",
+                 "ref": "Numbers 33:39"
+             }
+         ]
+     }
+    ]
