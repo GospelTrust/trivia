@@ -1,0 +1,143 @@
+[
+    {
+         "section": "Land",
+         "intro": "Long before there were real estate agents, people were surveying, buying, and selling land. Tell us what you know about these cases.",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "Who did God say should have first inheritance rights to the property of a man who died without sons?",
+                 "ans": "his daughters",
+                 "ref": "Numbers 27:1-8"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What did the law forbid Israelites to do to their neighbors'\"landmarks,\" or boundary stones?",
+                 "ans": "move, or remove, them",
+                 "ref": "Deuteronomy 19:14"
+             },
+             {
+                 "pts": 300,
+                 "ask": "Which tribe of Israel, set apart to be priests, did not receive part of the Promised Land, since \"the Lord is their inheritance\"?",
+                 "ans": "the Levites",
+                 "ref": "Joshua 18:3-7"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What field was purchased by the chief priests with the \"blood money\" they got back from a remorseful Judas Iscariot?",
+                 "ans": "the potter's field",
+                 "ref": "Matthew 27:3-7"
+             },
+             {
+                 "pts": 500,
+                 "ask": "What special celebration, every fifty years, saw property that had been sold returned to its original owners?",
+                 "ans": "Jubilee",
+                 "ref": "Leviticus 25:28"
+             }
+         ]
+     }, {
+         "section": "Leviticus",
+         "intro": "Leviticus is the Old Testament rule book. But you'll also find some stories inside, usually of people who broke those rules. How much do you know about this third book of the Bible?",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "What body fluid did God forbid the Israelites to eat because it holds the life of every creature?",
+                 "ans": "blood",
+                 "ref": "Leviticus 17:13-14"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What was the method of execution for a man who blasphemed the Lord's name with a curse?",
+                 "ans": "stoning",
+                 "ref": "Leviticus 24:10-23"
+             },
+             {
+                 "pts": 300,
+                 "ask": "What is one of the two kinds of birds a poor person could substitute for a lamb when making sacrifice for sin?",
+                 "ans": "dove or pigeon",
+                 "ref": "Leviticus 5:6-7"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What term, meaning \"one who bears blame,\" described a sacrificial goat chosen by lot to be set free in the desert?",
+                 "ans": "scapegoat",
+                 "ref": "Leviticus 16:6-10"
+             },
+             {
+                 "pts": 500,
+                 "ask": "What two sons of Aaron were burned to death for offering unauthorized fire to the Lord?",
+                 "ans": "Nadab and Abihu",
+                 "ref": "Leviticus 10:1-2"
+             }
+         ]
+     }, {
+         "section": "Lovely People",
+         "intro": "Call them the Bible's supermodels... What do you know about these lovely ladies - and one handsome man - from the pages of Scripture?",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "What beautiful woman was the wife of Abram, later known as Abraham?",
+                 "ans": "Sarai, later known as Sarah",
+                 "ref": "Genesis 12:11,17:15"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What future Israelite leader, as a baby, was described as \"no ordinary child\" or \"exceeding fair\"(KJV)?",
+                 "ans": "Moses",
+                 "ref": "Acts 7:20"
+             },
+             {
+                 "pts": 300,
+                 "ask": "What Old Testament queen was deposed and later replaced by Esther when she refused to parade her beauty at a royal banquet?",
+                 "ans": "Vashti",
+                 "ref": "Esther 1:10-19"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What beautiful daughter of David was mistreated by her stepbrother Amnon - who paid for that sin with his life?",
+                 "ans": "Tamar",
+                 "ref": "2 Samuel 13:1-14, 28-29"
+             },
+             {
+                 "pts": 500,
+                 "ask": "What intelligent and beautiful woman, the wife of the surly Nabal, married King David after Nabal died?",
+                 "ans": "Abigail",
+                 "ref": "1 Samuel 25:3, 39-42"
+             }
+         ]
+     }, {
+         "section": "Luke",
+         "intro": "Linus quoted him at length in The Charlie Brown Christmas Special... not bad for a guy who wrote almost two thousand years ago. What else do you know about the Biblical writer Luke?",
+         "questions": [
+             {
+                 "pts": 100,
+                 "ask": "What professional title, besides missionary, did Luke hold?",
+                 "ans": "doctor",
+                 "ref": "Colossians 4:14"
+             },
+             {
+                 "pts": 200,
+                 "ask": "What group of people, according to Luke, received the angels' announcement of the birth of Jesus?",
+                 "ans": "shepherds",
+                 "ref": "Luke 2:8-15"
+             },
+             {
+                 "pts": 300,
+                 "ask": "What young man, who fell from a window and died during a sermon by the apostle Paul, is described in Luke's book of Acts?",
+                 "ans": "Eutychus",
+                 "ref": "Acts 20:7-12"
+             },
+             {
+                 "pts": 400,
+                 "ask": "What are two of the four ways Luke says the young boy Jesus grew up?",
+                 "ans": "in wisdom, stature, favor with God, and favor with men",
+                 "ref": "Luke 2:52"
+             },
+             {
+                 "pts": 500,
+                 "ask": "To whom did Luke address the New Testament books of Luke and Acts?",
+                 "ans": "Theophilus",
+                 "ref": "Luke 1:3, Acts 1:1"
+             }
+         ]
+     }
+    ]
