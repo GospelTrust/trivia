@@ -1,0 +1,143 @@
+[
+    {
+        "section": "\"Q\" It Up",
+        "intro": "There aren't a lot of \"Q words\" in the Bible... but there are enough to fill this category: What's your Bible IQ?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What ruler of Sheba, intrigued by reports of Solomon's wisdom, paid a visit to test Solomon with hard questions?",
+                "ans": "queen",
+                "ref": "1 Kings 10:1"
+            },
+            {
+                "pts": 200,
+                "ask": "What arrow-carrying case did the psalmist liken to a man with many sons?",
+                "ans": "quiver",
+                "ref": "Psalm 127:4-5"
+            },
+            {
+                "pts": 300,
+                "ask": "What kind of bird did God miraculously provide for the Israelites, who had grown tired of manna?",
+                "ans": "quail",
+                "ref": "Numbers 11:31-32"
+            },
+            {
+                "pts": 400,
+                "ask": "What adjective, besides \"peaceful\" describes the kind of Christian life Paul told Timothy to live?",
+                "ans": "quiet",
+                "ref": "1 Timothy 2:1-2"
+            },
+            {
+                "pts": 500,
+                "ask": "How did Jesus instruct Judas Iscariot to do his evil work of betrayal?",
+                "ans": "quickly",
+                "ref": "John 13:27"
+            }
+        ]
+    }, {
+        "section": "Quenching",
+        "intro": "You don't often hear the word \"quench\" used in everyday speech... but it's a prominent word in the Bible. Tell us what do you know about it.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What terrible locale, according to Jesus, is a place where \"the fire is not quenched\"?",
+                "ans": "hell",
+                "ref": "Mark 9:45-48"
+            },
+            {
+                "pts": 200,
+                "ask": "What did the apostle Paul warn the Thessalonians against quenching - or putting out its fire?",
+                "ans": "the Spirit",
+                "ref": "1 Thessalonians 5:19"
+            },
+            {
+                "pts": 300,
+                "ask": "What piece of the armor of God can quench the fiery darts or flaming arrows of Satan?",
+                "ans": "the shield of faith",
+                "ref": "Ephesians 6:16"
+            },
+            {
+                "pts": 400,
+                "ask": "What, according to the Song of Songs, cannot quench love?",
+                "ans": "many waters",
+                "ref": "Song of Songs 8:7"
+            },
+            {
+                "pts": 500,
+                "ask": "What captain in Deborah's army is listed in the Hebrews as a hero of faith, among those who \"quenched the fury of the flames\"?",
+                "ans": "Barak",
+                "ref": "Judges 4:14-15, Hebrews 11:32-34"
+            }
+        ]
+    }, {
+        "section": "Questions",
+        "intro": "Here are some questions about questions. But the real question is,\"Do you have answers?\"",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Who did Jesus say He was calling to repentance when Pharisees asked why He ate with disreputable people?",
+                "ans": "sinners",
+                "ref": "Matthew 9:10-13"
+            },
+            {
+                "pts": 200,
+                "ask": "What \"visual aid\" did Jesus use to answer the disciples' question, \"Who is the greatest in the kingdom of heaven?\"",
+                "ans": "a child",
+                "ref": "Matthew 18:1-4"
+            },
+            {
+                "pts": 300,
+                "ask": "What imprisoned preacher sent his own disciples to Jesus to ask if He was the expected Messiah?",
+                "ans": "John the Baptist",
+                "ref": "Matthew 11:1-5"
+            },
+            {
+                "pts": 400,
+                "ask": "What answer did Jesus give to an expert in the law who asked which commandment was greatest?",
+                "ans": "\"Love the Lord your God with all your heart and with all your soul and with all your mind",
+                "ref": "Matthew 22:34-40"
+            },
+            {
+                "pts": 500,
+                "ask": "What two-part answer did Jesus give to trouble-making Pharisees who asked Him whether they should pay taxes to Caesar?",
+                "ans": "\"Give to Caesar what is Caesar's and to God what is God's",
+                "ref": "Mark 12:13-17"
+            }
+        ]
+   }, {
+       "section": "Quickly",
+       "intro": "This is a quiz about the quick. What do you know about Bible characters and things that go fast?",
+       "questions": [
+           {
+               "pts": 100,
+               "ask": "Which disciple, according to Luke, ran to Jesus' tomb after faithful woman told him of the Lord's ressurection?",
+               "ans": "Peter",
+               "ref": "Luke 24:1-12"
+           },
+           {
+               "pts": 200,
+               "ask": "What phrases describe the time frame in which Christians will be changed at the sound of the last trumpet?",
+               "ans": "\"in a flash, in the twinkling of an eye\"",
+               "ref": "1 Corinthians 15:52"
+           },
+           {
+               "pts": 300,
+               "ask": "What prostitute urged the men of Jericho to quickly pursue two Israelite-spies - while she harbored those spies in her own home?",
+               "ans": "Rahab",
+               "ref": "Joshua 2:1-6"
+           },
+           {
+               "pts": 400,
+               "ask": "What prophet summoned fire from heaven to destroy fifty-one soldiers carrying King Ahaziah's command to \"Come down at once!\"?",
+               "ans": "Elijah",
+               "ref": "2 Kings 1:1-12"
+           },
+           {
+               "pts": 500,
+               "ask": "What king of Israel was known for his furious chariot driving - likened to the driving of \"a madman\"?",
+               "ans": "Jehu",
+               "ref": "2 Kings 9:2-3, 20"
+           }
+       ]
+   }
+]

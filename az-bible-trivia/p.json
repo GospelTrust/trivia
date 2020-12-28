@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Passover",
+        "intro": "The Jews have been commemorating the Passover for thousands of years now. What do you know about its origins?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What kind of animal did God tell the Israelites to slaughter and eat during the Passover?",
+                "ans": "a lamb",
+                "ref": "Exodus 12:3-6"
+            },
+            {
+                "pts": 200,
+                "ask": "Where were the Israelites to apply some of the blood from the Passover sacrifice?",
+                "ans": "to their doorframes",
+                "ref": "Exodus 12:7"
+            },
+            {
+                "pts": 300,
+                "ask": "Who was to die in Egyptian households on the night of Passover?",
+                "ans": "the firstborn",
+                "ref": "Exodus 12:12-13"
+            },
+            {
+                "pts": 400,
+                "ask": "What baking product was banned from Israelite homes for an entire week during the Passover celebration?",
+                "ans": "yeast, or leaven",
+                "ref": "Exodus 12:19"
+            },
+            {
+                "pts": 500,
+                "ask": "What was the requirement for male slaves and foreigners to eat the Passover meal?",
+                "ans": "circumcision",
+                "ref": "Exodus 12:43-49"
+            }
+        ]
+    }, {
+        "section": "Pharisees",
+        "intro": "You probably already know that the Pharisees - the religious leaders of the day - had an ongoing battle with Jesus. Can you remember specifics of their conflict?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What civic duty did the Pharisees hope to use to get Jesus in trouble with Caesar?",
+                "ans": "paying taxes",
+                "ref": "Luke 20:20-26"
+            },
+            {
+                "pts": 200,
+                "ask": "What short word, meaning \"trouble,\" did Jesus pronounce on the Pharisees seven times in one speech?",
+                "ans": "woe",
+                "ref": "Matthew 23:13-32"
+            },
+            {
+                "pts": 300,
+                "ask": "What did Jesus do on a Sabbath day that so infuriated the Pharisees they began plotting to kill Him?",
+                "ans": "heal",
+                "ref": "Matthew 12:9-14"
+            },
+            {
+                "pts": 400,
+                "ask": "What type of person did Jesus use to constrast with the self-righteous Pharisees in a parable on humility?",
+                "ans": "a tax collector, or publican",
+                "ref": "Luke 18:9-14"
+            },
+            {
+                "pts": 500,
+                "ask": "What did Jesus say the Pharisees would see in response to their demand for a sign from heaven?",
+                "ans": "the sign of Jonah",
+                "ref": "Matthew 16:1-4"
+            }
+        ]
+    }, {
+        "section": "Pontius Pilate",
+        "intro": "The perfect politician - Pilate said he could find no fault in Jesus, but allowed Him to be crucified anyway. What else do you know about this Roman official?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What symbolic act did Pontius Pilate perform to try to brush aside responsibility for Jesus' crucifixion?",
+                "ans": "He washed his hands",
+                "ref": "Matthew 27:24"
+            },
+            {
+                "pts": 200,
+                "ask": "What position of authority did Pontius Pilate hold?",
+                "ans": "governor",
+                "ref": "Matthew 27:2"
+            },
+            {
+                "pts": 300,
+                "ask": "Who urged Pontius Pilate to leave Jesus alone after having a dream about Him?",
+                "ans": "Pilate's wife",
+                "ref": "Matthew 27:19"
+            },
+            {
+                "pts": 400,
+                "ask": "What three-word question did Pontius Pilate utter after Jesus said He had come into the world to testify to the truth?",
+                "ans": "\"What is the truth?\"",
+                "ref": "John 18:37-38"
+            },
+            {
+                "pts": 500,
+                "ask": "What fellow government official - formerly an enemy - became Pon tius Pilate's friend during Jesus' trial?'",
+                "ans": "Herod",
+                "ref": "Luke 23:5-12"
+            }
+        ]
+    }, {
+        "section": "Profit and Loss",
+        "intro": "You don't have to be an accountant to understand the Bible's system of profit and loss. Can you add to your score by answering these five questions?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did the apostle Paul say is profitable, or useful, for teaching, rebuking, correcting, and training in righteousness?",
+                "ans": "Scripture",
+                "ref": "2 Timothy 3:16"
+            },
+            {
+                "pts": 200,
+                "ask": "What did Jesus say a man could forfeit negating the gain of \"the whole world\"?",
+                "ans": "his soul",
+                "ref": "Mark 8:36"
+            },
+            {
+                "pts": 300,
+                "ask": "What, along with godliness, did the apostle Paul tell Timothy \"is great gain\"?",
+                "ans": "contentment",
+                "ref": "1 Timothy 6:6"
+            },
+            {
+                "pts": 400,
+                "ask": "Whose loss, according to the book of Romans, meant \"riches\" for the Gentiles?",
+                "ans": "Israel",
+                "ref": "Romans 11:7-12"
+            },
+            {
+                "pts": 500,
+                "ask": "How did Paul describe everythinng he had lost in his life in his efforts to gain Christ?",
+                "ans": "rubbish, or dung",
+                "ref": "Philippians 3:7-8"
+            }
+        ]
+    }
+]
