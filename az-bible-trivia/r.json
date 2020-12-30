@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Richers of Earth",
+        "intro": "No, this isn't a quiz about guys named Rich. We're talking money, moolah, dinero... and what the Bible says about it. Put your money where your mouth is, and tell us what you know.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What feeling toward money is \"a root of all kinds of evil\"?",
+                "ans": "love",
+                "ref": "1 Timothy 6:10"
+            },
+            {
+                "pts": 200,
+                "ask": "What two things, according to Jesus, destroy treasures on earth?",
+                "ans": "moth and trust",
+                "ref": "Matthew 6:19"
+            },
+            {
+                "pts": 300,
+                "ask": "What coming day, according to the Proverbs, shows the worthlessness of wealth?",
+                "ans": "the day of wrath",
+                "ref": "Proverbs 11:4"
+            },
+            {
+                "pts": 400,
+                "ask": "What dishonest quality of wealth, according to Jesus' parable of the sower, causes some Christians to be unfruitful?",
+                "ans": "deceitfulness",
+                "ref": "Matthew 13:22"
+            },
+            {
+                "pts": 500,
+                "ask": "What word did the apostle Paul use to describe wealth or riches in his first letter to Timothy?",
+                "ans": "uncertain",
+                "ref": "1 Timothy 6:17"
+            }
+        ]
+    }, {
+        "section": "Rivers",
+        "intro": "You won't find the Mississippi or the Amazon in the Bible, but several other rivers are noted. What do you recall of them?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What future leader of Israel, as a three-month-old baby, was placed in a basket in the river of Egypt-the Nile?",
+                "ans": "Moses",
+                "ref": "Exodus 2:1-10"
+            },
+            {
+                "pts": 200,
+                "ask": "What form did the Holy Spirit take when it descended on Jesus after His baptism in the Jordan River?",
+                "ans": "a dove",
+                "ref": "Matthew 3:13-17"
+            },
+            {
+                "pts": 300,
+                "ask": "Of the four rivers that were said to flow from the Garden of Eden, what two share names with important rivers of the modern Middle East?",
+                "ans": "Tigris and Euphrates",
+                "ref": "Genesis 2:10-14"
+            },
+            {
+                "pts": 400,
+                "ask": "What leprous army commander, told to wash in the Jordan for healing, preferred to wash in the Abana or Pharpar rivers of his homeland?",
+                "ans": "Naaman",
+                "ref": "2 Kings 5:10-14"
+            },
+            {
+                "pts": 500,
+                "ask": "Where does \"the river of the water of life\" in the new Jerusalem originate?",
+                "ans": "the throne of God",
+                "ref": "Revelation 22:1-2"
+            }
+        ]
+    }, {
+        "section": "Ruth's Story",
+        "intro": "Looking for a little romance? Try the Bible's story of Ruth - that's where the question in this quiz come from.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What great-grandson of Ruth became the most prominent king of Israel?",
+                "ans": "David",
+                "ref": "Ruth 4:13-17"
+            },
+            {
+                "pts": 200,
+                "ask": "What was Ruth doing the first time she saw Boaz, the man she would marry?",
+                "ans": "gleaning",
+                "ref": "Ruth 2:5-8"
+            },
+            {
+                "pts": 300,
+                "ask": "What role did Boaz play by marrying Ruth and purchasing the property of her former in-laws?",
+                "ans": "kinsman-redeemer",
+                "ref": "Ruth 3:7-13"
+            },
+            {
+                "pts": 400,
+                "ask": "What was the name of Ruth's first husband, who died?",
+                "ans": "Mahlon",
+                "ref": "Ruth 4:10"
+            },
+            {
+                "pts": 500,
+                "ask": "What name, meaning \"Bitter,\" did Ruth's newly-widowed mother-in-law give herself?",
+                "ans": "Mara",
+                "ref": "Ruth 1:20"
+            }
+        ]
+    }, {
+        "section": "\"R\" You sure?",
+        "intro": "You noticed the quotation marks? Then you already know that every answer in this quiz begins with the letter R",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did Jesus say He came to call sinners to?",
+                "ans": "repentance",
+                "ref": "Luke 5:31-32"
+            },
+            {
+                "pts": 200,
+                "ask": "What daughter of Bethuel was wife of the patriarch Isaac?",
+                "ans": "Rebekah",
+                "ref": "Genesis 25:20"
+            },
+            {
+                "pts": 300,
+                "ask": "What kind of lion does the apostle Peter compare the devil to?",
+                "ans": "roaring",
+                "ref": "1 Peter 5:8"
+            },
+            {
+                "pts": 400,
+                "ask": "What name - also the name of a bay in Delaware - did Isaac give to a well dug?",
+                "ans": "Rehoboth",
+                "ref": "Genesis 26:22"
+            },
+            {
+                "pts": 500,
+                "ask": "What kind of fire does the prophet Malachi say the Lord will be like in the day of judgment?",
+                "ans": "refiner's ",
+                "ref": "Malachi 3:1-2"
+            }
+        ]
+    }
+]
