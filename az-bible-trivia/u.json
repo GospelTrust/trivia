@@ -1,0 +1,143 @@
+[
+    {
+        "section": "\"U\" Know?",
+        "intro": "We've called out the letter in the title to this quiz. That lets you know the first letter of each answer",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "In what kind of room did Jesus celebrate His last Passover with His disciples?",
+                "ans": "upper",
+                "ref": "Mark 14:12-15"
+            },
+            {
+                "pts": 200,
+                "ask": "What, along with wisdom, does Solomon urge readers of the Proverbs to get?",
+                "ans": "understanding",
+                "ref": "Proverbs 4:5-7"
+            },
+            {
+                "pts": 300,
+                "ask": "What land did the patriarch Abraham hail from?",
+                "ans": "Ur of the Chaldeans",
+                "ref": "Genesis 15:7-8"
+            },
+            {
+                "pts": 400,
+                "ask": "What kind of god had the people of Athens built an altar to - prompting the apostle Paul to share the true God with them?",
+                "ans": "unknown",
+                "ref": "Acts 17:22-23"
+            },
+            {
+                "pts": 500,
+                "ask": "What man, attempting to steady the ark of the covenant on its cart, was struck dead for touching it?",
+                "ans": "Uzzah",
+                "ref": "2 Samuel 6:6-7"
+            }
+        ]
+    }, {
+        "section": "Unto us a child is born",
+        "intro": "The birth of Christ - a remarkable fulfilment of prophecy and a key event in all human history. What do you remember of the Bible's Christmas story?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What town in Judea was the birthplace of Jesus?",
+                "ans": "Bethlehem",
+                "ref": "Matthew 2:1"
+            },
+            {
+                "pts": 200,
+                "ask": "What animal feeding trough served as a temporary bed for the newborn Jesus",
+                "ans": "a manger",
+                "ref": "Luke 2:7"
+            },
+            {
+                "pts": 300,
+                "ask": "What name, meaning \"God with us,\" did Isaiah prophesy for Jesus?",
+                "ans": "Immanuel or Emmanuel",
+                "ref": "Isaiah 7:14, Matthew 1:22-23"
+            },
+            {
+                "pts": 400,
+                "ask": "What relative did Jesus' mother, Mary, stay with while she was expecting?",
+                "ans": "Elizabeth",
+                "ref": "Luke 1:36, 56"
+            },
+            {
+                "pts": 500,
+                "ask": "What, according to the prophet Isaiah, would Jesus carry on His shoulders?",
+                "ans": "the government",
+                "ref": "Isaiah 9:6"
+            }
+        ]
+    }, {
+        "section": "Uproars",
+        "intro": "Call 'em riots, hubbubs, or donnybrooks, you'll find a number of uproars in the pages of Scripture! What can you tell us about these?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What idol were the Israelites worshiping with shouting and singing when Moses arrived with God's Ten Commandments?",
+                "ans": "the golden calf",
+                "ref": "Exodus 32:1-4, 17-20"
+            },
+            {
+                "pts": 200,
+                "ask": "What disciple was martyred by an angry, screaming crowd, after a critical speech to the Sanhedrin?",
+                "ans": "Stephen",
+                "ref": "Acts 7:51-60"
+            },
+            {
+                "pts": 300,
+                "ask": "What did Moses fear the thirsty Israelites would do to him at a dry place called Rephidim?",
+                "ans": "stone him",
+                "ref": "Exodus 17:1-4"
+            },
+            {
+                "pts": 400,
+                "ask": "In what city did silversmiths - fearing the effect of Paul's preaching on their idol-making business - stir up a riot?",
+                "ans": "Ephesus",
+                "ref": "Acts 19:25-32"
+            },
+            {
+                "pts": 500,
+                "ask": "What two groups of people, according to the crowd at Jesus' crucifixion, should bear responsibility for Jesus' death?",
+                "ans": "\"us and... our children\"",
+                "ref": "Matthew 27:25"
+            }
+        ]
+    }, {
+        "section": "Uriah the Hittite",
+        "intro": "He had a beautifuk wife - and that got him killed. What else do you recall of the story of Uriah the Hittite?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What beautiful wife of Uriah was improperly taken - and made pregnant - by a lustful King David?",
+                "ans": "Bathsheba",
+                "ref": "2 Samuel 11:2-5"
+            },
+            {
+                "pts": 200,
+                "ask": "What was Uriah's occupation?",
+                "ans": "soldier",
+                "ref": "2 Samuel 11:7"
+            },
+            {
+                "pts": 300,
+                "ask": "How many nights did David try to make Uriah go home to sleep with his wife?",
+                "ans": "two",
+                "ref": "2 Samuel 11:8-13"
+            },
+            {
+                "pts": 400,
+                "ask": "Where did King David later order Uriah?",
+                "ans": "the fiercest part of the battle, to his death",
+                "ref": "2 Samuel 11:14-15"
+            },
+            {
+                "pts": 500,
+                "ask": "What prophet confronted David about his sins toward Uriah?",
+                "ans": "Nathan",
+                "ref": "2 Samuel 12:1-10"
+            }
+        ]
+    }
+]

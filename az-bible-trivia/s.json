@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Salt",
+        "intro": "Salt - chemical compound NaCl - was pretty important stuff in the Bible. Tell us what you know about salt, both literal and figurative.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Whose wife was turned into a pillar of salt for looking back on the doomed cities of Sodom and Gomorrah?",
+                "ans": "Lot",
+                "ref": "Genesis 19:23-26"
+            },
+            {
+                "pts": 200,
+                "ask": "What did Jesus tell His disciples they were \"the salt of\"?",
+                "ans": "the earth",
+                "ref": "Matthew 5:13"
+            },
+            {
+                "pts": 300,
+                "ask": "What did the apostle Paul say should be \"seasoned with salt\"?",
+                "ans": "conversation, or speech",
+                "ref": "Colossians 4:6"
+            },
+            {
+                "pts": 400,
+                "ask": "What did Mark quote Jesus as saying everyone would be \"salted with\"?",
+                "ans": "fire",
+                "ref": "Mark 9:49"
+            },
+            {
+                "pts": 500,
+                "ask": "What Old Testament prophet healed the waters of Jericho by throwing salt into a spring?",
+                "ans": "Elisha",
+                "ref": "2 Kings 2:19-22"
+            }
+        ]
+    }, {
+        "section": "Simon Who?",
+        "intro": "Simon was a popular name in Bible times. Here are five men who were known by the name Simon - your job is to more clearly identify each one",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did a Simon from Cyrene carry for Jesus as He walked to His execution?",
+                "ans": "His cross",
+                "ref": "Luke 23:26"
+            },
+            {
+                "pts": 200,
+                "ask": "What famous half-brother could a certain Simon, with his full brothers James, Joseph, and Judas, claim?",
+                "ans": "Jesus",
+                "ref": "Matthew 13:53-56"
+            },
+            {
+                "pts": 300,
+                "ask": "What two-word nickname - from a dreaded disease he had - described a Simon from Bethany?",
+                "ans": "\"the Leper\"",
+                "ref": "Mark 14:3"
+            },
+            {
+                "pts": 400,
+                "ask": "What forbidden art did a Simon from Samaria practice before he accepted Christ?",
+                "ans": "sorcery",
+                "ref": "Acts 8:9-24"
+            },
+            {
+                "pts": 500,
+                "ask": "What job was held by a Simon from Joppa, who entertained the apostle Peter in his house by the sea?",
+                "ans": "tanner",
+                "ref": "Acts 10:30-33"
+            }
+        ]
+    }, {
+        "section": "\"S\"ons of Men",
+        "intro": "Two hints on this quiz: Every answer begins with the letter S, and each answer is the name of a biblical man",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What man is generally listed first in the accounts of Noah's sons?",
+                "ans": "Shem",
+                "ref": "Genesis 5:32"
+            },
+            {
+                "pts": 200,
+                "ask": "What man, described in Acts as \"full of faith and of the Holy Spirit,\" was one of seven chosen to relieve the apostles of waiting on tables?",
+                "ans": "Stephen",
+                "ref": "Acts 6:1-5"
+            },
+            {
+                "pts": 300,
+                "ask": "What devout man held the baby Jesus when Mary and Joseph presented Him at the temple?",
+                "ans": "Simeon",
+                "ref": "Luke 2:25-32"
+            },
+            {
+                "pts": 400,
+                "ask": "What king of Assyria insulted God to King Hezekiah of Judah - and paid for it with his life?",
+                "ans": "Sennacherib",
+                "ref": "2 Kings 19:5-13, 35-37"
+            },
+            {
+                "pts": 500,
+                "ask": "What man, a Horonite, opposed Nehemiah and the Jews rebuilding the walls of Jerusalem?",
+                "ans": "Sanballat",
+                "ref": "Nehemiah 2:10, 4:1-2"
+            }
+        ]
+    }, {
+        "section": "Soul Winners",
+        "intro": "Call it \"evangelism\", \"preaching the gospel\", or \"bringing in the sheaves.\" Christians have an obligation to win souls. What do you recall about the Bible's soulwinning passages? ",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What two disciples from Jesus' inner circle, described as \"unschooled, ordinary men,\" amazed the Jewish leaders with their courage in preaching the gospel",
+                "ans": "Peter and John",
+                "ref": "Acts 4:1-20"
+            },
+            {
+                "pts": 200,
+                "ask": "What agricultural term did Jesus use to describe the soul-winners' goal?",
+                "ans": "harvest",
+                "ref": "Luke 10:1-2"
+            },
+            {
+                "pts": 300,
+                "ask": "What businesswoman from Thyatiram, a seller of purple cloth, became a Christian after hearing Paul share the gospel?",
+                "ans": "Lydia",
+                "ref": "Acts 16:13-15"
+            },
+            {
+                "pts": 400,
+                "ask": "What word did Solomon, in the Proverbs, use to describe soul winners?",
+                "ans": "wise",
+                "ref": "Proverbs 11:30"
+            },
+            {
+                "pts": 500,
+                "ask": "What five-word phrase did the apostle Paul say he had become in his efforts to bring various people to Christ?",
+                "ans": "\"all things to all men\"",
+                "ref": "1 Corinthians 9:22"
+            }
+        ]
+    }
+]

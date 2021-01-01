@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Tithes and Offerings",
+        "intro": "The apostle Paul quoted Jesus as saying \"It is more blessed to give than to receive.\" What do you know about the Bible's instruction on tithes and offerings?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What attitude of giving, according to the apostle Paul, does God love?",
+                "ans": "cheerful",
+                "ref": "2 Corinthians 9:7"
+            },
+            {
+                "pts": 200,
+                "ask": "Which day of the week did the apostle Paul tell believers to put aside money for their offerings?",
+                "ans": "the first day",
+                "ref": "1 Corinthians 16:2"
+            },
+            {
+                "pts": 300,
+                "ask": "What two words describe the woman Jesus commended for giving an offering of two small copper coins - or \"mites\"?",
+                "ans": "\"poor widow\"",
+                "ref": "Mark 12:41-43"
+            },
+            {
+                "pts": 400,
+                "ask": "What priest of Salem received a tithe from the patriarch Abram, later called Abraham?",
+                "ans": "Melchizedek",
+                "ref": "Genesis 14:18-20"
+            },
+            {
+                "pts": 500,
+                "ask": "What three spices did Jesus scold Pharisees for tithing while neglecting more important issues like justice and mercy?",
+                "ans": "mint, dill (or anise), and cummin",
+                "ref": "Matthew 23:23"
+            }
+        ]
+    }, {
+        "section": "Tombs",
+        "intro": "Yeah, we're talking about tombs - those places that hold dead bodies. You'll find quite a few of them in Scripture... What do you remember about these?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "Whose tomb was marked by a pillar erected by her husband, Jacob?",
+                "ans": "Rachel",
+                "ref": "Genesis 35:19-20"
+            },
+            {
+                "pts": 200,
+                "ask": "What kind of tomb did Jesus derisively use to describe the hypocritical Pharisees and teachers of the law?",
+                "ans": "whitewashed, or whited",
+                "ref": "Matthew 23:27-28"
+            },
+            {
+                "pts": 300,
+                "ask": "Who gave up his own new tomb for the buried of the crucified Jesus?",
+                "ans": "Joseph of Arimathea",
+                "ref": "Matthew 27:57-60"
+            },
+            {
+                "pts": 400,
+                "ask": "What Old Testament woman was buried in a cave in the field of Machpelah?",
+                "ans": "Sarah",
+                "ref": "Genesis 23:19"
+            },
+            {
+                "pts": 500,
+                "ask": "What son and grandson of Kish were reburied in his tomb after their deaths in battle?",
+                "ans": "Saul and Jonathan",
+                "ref": "2 Samuel 21:13-14"
+            }
+        ]
+    }, {
+        "section": "Trees",
+        "intro": "They didn't have Arbor Day, but they did have plenty of trees. Show us your knowledge of these trees of the Bible",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What kind of tree did a man named Zacchaeus climb in order to see Jesus?",
+                "ans": "sycamore-fig",
+                "ref": "Luke 19:1-4"
+            },
+            {
+                "pts": 200,
+                "ask": "What type of tree immediately withered when Jesus cursed it - an event Jesus used to teach His disciples about faith?",
+                "ans": "fig",
+                "ref": "Matthew 21:18-22"
+            },
+            {
+                "pts": 300,
+                "ask": "What famous tree of Lebanon was used by the psalmist as a metaphor for the righteous?",
+                "ans": "cedar",
+                "ref": "Psalm 92:12"
+            },
+            {
+                "pts": 400,
+                "ask": "What kind of tree was Gidein working under when the angel of the Lord greeted him?",
+                "ans": "oak",
+                "ref": "Judges 6:11-12"
+            },
+            {
+                "pts": 500,
+                "ask": "What type of tree does the lovesmitten woman of the Song of Songs compare her man to",
+                "ans": "apple",
+                "ref": "Song of Songs 2:3"
+            }
+        ]
+    }, {
+        "section": "\"T\" Time",
+        "intro": "Another set of quotation marks, and another tip-off to aid you: All of the following answers will begin with the letter T.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What troublesome desire did Paul say is \"common to man\"?",
+                "ans": "temptation",
+                "ref": "1 Corinthians 10:13"
+            },
+            {
+                "pts": 200,
+                "ask": "What city was the birthplace of the apostle Paul?",
+                "ans": "Tarsus",
+                "ref": "Acts 22:2-3"
+            },
+            {
+                "pts": 300,
+                "ask": "Where did Abraham find a ram to sacrifice after God stopped him from sacrificing his son Isaac?",
+                "ans": "thicket",
+                "ref": "Genesis 22:9-13"
+            },
+            {
+                "pts": 400,
+                "ask": "What two T's grew from the ground God cursed after Adam and Eve's sin?",
+                "ans": "thorns and thistles",
+                "ref": "Genesis 3:17-18"
+            },
+            {
+                "pts": 500,
+                "ask": "Which of the churched of Revelation did Jesus criticize for tolerating \"that woman Jezebel\"?",
+                "ans": "Thyatira",
+                "ref": "Revelation 2:18-20"
+            }
+        ]
+    }
+]
