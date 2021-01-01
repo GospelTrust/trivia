@@ -1,0 +1,143 @@
+[
+    {
+        "section": "X at the end",
+        "intro": "Words starting with X are relatively incommon... but it's not unsual to find words ending with X. Don't worry, you can handle this quiz!",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did Jesus and Peter pay with a coin found in a fish's mouth?",
+                "ans": "tax",
+                "ref": "Matthew 17:24-27"
+            },
+            {
+                "pts": 200,
+                "ask": "What animal were the Israelites not to muzzle as it was treading grain?",
+                "ans": "ox",
+                "ref": "Deuteronomy 25:4"
+            },
+            {
+                "pts": 300,
+                "ask": "What melting substance did the psalmist say his heart had turned to?",
+                "ans": "wax",
+                "ref": "Psalm 22:14"
+            },
+            {
+                "pts": 400,
+                "ask": "What metal tool miraculously floated for the prophet Elisha?",
+                "ans": "ax",
+                "ref": "2 Kings 6:1-7"
+            },
+            {
+                "pts": 500,
+                "ask": "What Egyptian crop was destroyed by the plague of hail called down by Moses?",
+                "ans": "flax",
+                "ref": "Exodus 9:29-31"
+            }
+        ]
+    }, {
+        "section": "Xenophobia",
+        "intro": "According to the dictionary, xenophobia is a fear and hatred of foreigners - and something God actually encouraged to keep His chosen people pure. What do you know about these five cases?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did the patriarch Isaac forbid his son Jacob to do with a Canaanite woman?",
+                "ans": "marry",
+                "ref": "Genesis 28:1"
+            },
+            {
+                "pts": 200,
+                "ask": "What annual ritual dinner of the Israelites were foreigners forbidden to eat?",
+                "ans": "Passover",
+                "ref": "Exodus 12:43"
+            },
+            {
+                "pts": 300,
+                "ask": "What charge for borrowed money could Israelites apply to foreigners but not to fellow Jews?",
+                "ans": "interest, or usury",
+                "ref": "Deuteronomy 23:19-20"
+            },
+            {
+                "pts": 400,
+                "ask": "What nationality, hated by the Jews, provided the \"good guy\" character in Jesus' parable of a man beaten by robbers?",
+                "ans": "Samaritan",
+                "ref": "Luke 10:25-37"
+            },
+            {
+                "pts": 500,
+                "ask": "What type of agreement did God forbid between Israel and the nations He would drive out of the Promised Land?",
+                "ans": "treaty, or covenant",
+                "ref": "Deuteronomy 7:1-2"
+            }
+        ]
+    }, {
+        "section": "Xerxes",
+        "intro": "He's also known as Ahasuerus... which is probably a good reason to go by \"Xerxes\". Tell us what you know about this ancient king.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What beautiful young Jewish woman was the second queen of the Persian King Xerxes?",
+                "ans": "Esther",
+                "ref": "Esther 2:16-17"
+            },
+            {
+                "pts": 200,
+                "ask": "What modern-day nation, with its capital at New Delhi, marked the eastern extent of King Xerxes's nation?",
+                "ans": "India",
+                "ref": "Esther 8:9"
+            },
+            {
+                "pts": 300,
+                "ask": "Who discovered and foiled a plot to assassinate King Xerxes?",
+                "ans": "Mordecai",
+                "ref": "Esther 2:21-23"
+            },
+            {
+                "pts": 400,
+                "ask": "What would King Xerxes hold out to show favor to the people who pleased him?",
+                "ans": "a golden scepter",
+                "ref": "Esther 4:11, 5:2"
+            },
+            {
+                "pts": 500,
+                "ask": "What city was the site of King Xerxes's royal citadel?",
+                "ans": "Susa, or Shushan",
+                "ref": "Esther 1:2"
+            }
+        ]
+    }, {
+        "section": "X-Ray vision",
+        "intro": "Seeing through brick walls is a talent if the fictional Superman. But seeing through the walls of the heart is a power of the true God. What do you know about His \"X-ray Vision\"?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What son did King David tell, \"The Lord searches every heart and understands every motive\"?",
+                "ans": "Solomon",
+                "ref": "1 Chronicles 28:2-10"
+            },
+            {
+                "pts": 200,
+                "ask": "What troublemaking religious leaders - accusing Jesus of casting out demons by the prince of demons had their thoughts read by Jesus?",
+                "ans": "Pharisees",
+                "ref": "Matthew 12:22-28"
+            },
+            {
+                "pts": 300,
+                "ask": "What great prophet heard God say, \"Man looks at the outward appearance, but the Lord looks at the heart\"?",
+                "ans": "Samuel",
+                "ref": "1 Samuel 16:7"
+            },
+            {
+                "pts": 400,
+                "ask": "What did Jesus say God would do for the believers He sees secretly giving to the needy?",
+                "ans": "reward them",
+                "ref": "Matthew 6:3-4"
+            },
+            {
+                "pts": 500,
+                "ask": "What \"el\"oquent friend of Job proclaimed God's complete knowledge, saying, \"There is no dark place... where evildoers can hide\"?",
+                "ans": "Elihu",
+                "ref": "Job 34:1-22"
+            }
+        ]
+    }
+]

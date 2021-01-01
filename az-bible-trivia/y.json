@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Yachtsmen",
+        "intro": "Okay, okay... you won't find the word \"yacht\" in any translation of the Bible. But we're using it as a synonym for boat and asking you to tell us about the sailors of Scripture",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What wayward prophet was thrown overboard by pagan sailors frightened by a violent storm at sea?",
+                "ans": "Jonah",
+                "ref": "Jonah 1:13-15"
+            },
+            {
+                "pts": 200,
+                "ask": "What alliterative brothers were in a boat when Jesus called them to be His disciples?",
+                "ans": "James and John",
+                "ref": "Matthew 4:21-22"
+            },
+            {
+                "pts": 300,
+                "ask": "What was Jesus doing in a boat immediately before calming a storm that terrified His disciples?",
+                "ans": "Sleeping",
+                "ref": "Luke 8:22-25"
+            },
+            {
+                "pts": 400,
+                "ask": "What wise and wealthy king, who built God's first temple, also built ships on the Red Sea?",
+                "ans": "Solomon",
+                "ref": "1 Kings 9:26-28"
+            },
+            {
+                "pts": 500,
+                "ask": "What island's people welcomed the apostle Paul and 275 other people after their ship broke apart in the Adriatic Sea?",
+                "ans": "Malta, or Melita",
+                "ref": "Acts 27:37-28:2"
+            }
+        ]
+    }, {
+        "section": "Yellow-Bellies",
+        "intro": "That's an Old West term for \"cowards\" - and there were a few of them in the Bible. Tell us what you remember about these.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "How many times during Jesus' arrest and trial did Simon Peter deny he knew the Lord?",
+                "ans": "three",
+                "ref": "Luke 22:54-62"
+            },
+            {
+                "pts": 200,
+                "ask": "What did the terrified disciples think they were seeing when Jesus walked across the water to their boat?",
+                "ans": "a ghost, or spirit",
+                "ref": "Matthew 14:22-27"
+            },
+            {
+                "pts": 300,
+                "ask": "What wicked queen threatened the life of the prophet Elijah, causing him to pray to God that he would die?",
+                "ans": "Jezebel",
+                "ref": "1 Kings 19:1-4"
+            },
+            {
+                "pts": 400,
+                "ask": "What conspiring son of King David caused his father to flee for his life from Jerusalem?",
+                "ans": "Absalom",
+                "ref": "2 Samuel 15:13-37"
+            },
+            {
+                "pts": 500,
+                "ask": "What Israelite leader, preparing for battle against the Midianites, saw twenty-two thousand warriors - more than two-thirds of his army - desert when given the chance?",
+                "ans": "Gideon",
+                "ref": "Judges 7:1-3"
+            }
+        ]
+    }, {
+        "section": "Yokes",
+        "intro": "The yoke's on you! Yeah, we know that's a bad pun, but there are yokes in the Bible that belong on people, as well as animals. What can you recall about them?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "How did Jesus describe the yoke He places on His followers?",
+                "ans": "easy",
+                "ref": "Matthew 11:28-30"
+            },
+            {
+                "pts": 200,
+                "ask": "What color if heifer - which had never worn a yoke - were Moses and Aaron instructed to sacrifice?",
+                "ans": "red",
+                "ref": "Numbers 19:1-5"
+            },
+            {
+                "pts": 300,
+                "ask": "What kind of yoking did the apostle Paul warn the church at Corinth about?",
+                "ans": "with unbelievers, or unequal",
+                "ref": "2 Corinthians 6:14"
+            },
+            {
+                "pts": 400,
+                "ask": "What Old Testament prophet, who called himself \"a child\", wore a wooden yoke as an object lesson?",
+                "ans": "Jeremiah",
+                "ref": "Jeremiah 1:6, 28:12-14"
+            },
+            {
+                "pts": 500,
+                "ask": "What king, the son of Solomonm threatened to place his subjects under a heavy yoke - and caused many of the tribes of Israel to rebel?",
+                "ans": "Rehoboam",
+                "ref": "1 Kings 12:1-19"
+            }
+        ]
+    }, {
+        "section": "Young people",
+        "intro": "You have to be thirty-five to become president of the United States. But you can serve the Lord at any age. What do you know about these five young people of the Bible?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What instrument did the young David play to soothe the troubled spirit of King Saul?",
+                "ans": "harp",
+                "ref": "1 Samuel 16:18-19"
+            },
+            {
+                "pts": 200,
+                "ask": "What boy,destined to become a great prophet of Israel, ministered in the temple under the priest Eli?",
+                "ans": "Samuel",
+                "ref": "1 Samuel 3:1"
+            },
+            {
+                "pts": 300,
+                "ask": "How old was the boy Jesus when He amazed people in the temple with His spiritual insights?",
+                "ans": "twelve",
+                "ref": "Luke 2:41-52"
+            },
+            {
+                "pts": 400,
+                "ask": "What young king removed all the mediums and spirits from Judah, as required in the book of the law found by his priest, Hilkiah?",
+                "ans": "Josiah",
+                "ref": "2 Kings 22:1-8, 23:24-25"
+            },
+            {
+                "pts": 500,
+                "ask": "What young relative of Paul discovered and reported a plot to kill the apostle in Jerusalem?",
+                "ans": "his newphew, or sister's son",
+                "ref": "Acts 23:12-22"
+            }
+        ]
+    }
+]

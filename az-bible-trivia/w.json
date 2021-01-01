@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Wisdom",
+        "intro": "It seems in short supply in today's world, but the Bible is packed with words of wisdom. How wise will you be when it comes to these questions?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What precious metal, according to Proverbs, cannot compare to the value of wisdom?",
+                "ans": "gold",
+                "ref": "Proverbs 16:16"
+            },
+            {
+                "pts": 200,
+                "ask": "What does Proverbs say is the \"beginning of wisdom\"?",
+                "ans": "the fear of the Lord",
+                "ref": "Proverbs 9:10"
+            },
+            {
+                "pts": 300,
+                "ask": "To whom, according to Proverbs, does a man who loves wisdom bring joy?",
+                "ans": "his father",
+                "ref": "Proverbs 29:3"
+            },
+            {
+                "pts": 400,
+                "ask": "What relative do the Proverbs say a young man should call wisdom?",
+                "ans": "sister",
+                "ref": "Proverbs 7:4"
+            },
+            {
+                "pts": 500,
+                "ask": "According to Proverbs, what does the person who gets wisdom love?",
+                "ans": "his own soul",
+                "ref": "Proverbs 19:8"
+            }
+        ]
+    }, {
+        "section": "Wives",
+        "intro": "Wives in the Bible come in all varieties - good, bad, and indifferent. What can you recall about these?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What great patriarch took a wife named Keturah after his first wife died?",
+                "ans": "Abraham",
+                "ref": "Genesis 25:1"
+            },
+            {
+                "pts": 200,
+                "ask": "How many wives did Solomon have - in addition to his three hundred concubines",
+                "ans": "seven hundred",
+                "ref": "1 Kings 11:1-3"
+            },
+            {
+                "pts": 300,
+                "ask": "What daughter of King Saul became the wife of David - for the price of two hundred dead Philistines?",
+                "ans": "Michal",
+                "ref": "1 Samuel 18:26-27"
+            },
+            {
+                "pts": 400,
+                "ask": "Which apostle's wife accompanied him on ministry trips, according to Paul?",
+                "ans": "Peter, or Cephas",
+                "ref": "1 Corinthians 9:5"
+            },
+            {
+                "pts": 500,
+                "ask": "What second wife of Elkanah provoked his other wife, Hannah, over her barrenness?",
+                "ans": "Peninnah",
+                "ref": "1 Samuel 1:1-6"
+            }
+        ]
+    }, {
+        "section": "\"W\"ords of the Bible",
+        "intro": "Here's your big hint - because you see quotation marks in the quiz title, all of the answers will begin with the letter W/",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What did God use to take the prophet Elijah into heaven?",
+                "ans": "whirlwind",
+                "ref": "2 Kings 2:1"
+            },
+            {
+                "pts": 200,
+                "ask": "What word is paired with \"signs\" to describe the miraculous doings of the apostles after Pentecost?",
+                "ans": "wonders",
+                "ref": "Acts 5:12"
+            },
+            {
+                "pts": 300,
+                "ask": "What ravenous animal would feed peacefully with the lamb in the new earth prophesied by Isaiah?",
+                "ans": "wolf",
+                "ref": "Isaiah 65:25"
+            },
+            {
+                "pts": 400,
+                "ask": "What did the patriarch Jacob do all night with God at a place called Peniel?",
+                "ans": "wrestle",
+                "ref": "Genesis 32:22-30"
+            },
+            {
+                "pts": 500,
+                "ask": "What is the name of the star that falls to earth and poisons a third of the water, as described in Revelation?",
+                "ans": "Wormwood",
+                "ref": "Revelation 8:10-11"
+            }
+        ]
+    }, {
+        "section": "Workers",
+        "intro": "You've worked your way through most of the alphabet, to a quiz about \"workers\". Give your memory a good workout, and try to answer these questions.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What word did Jesus use to describe the workers compared to the \"plentiful\" harvest of souls?",
+                "ans": "few",
+                "ref": "Luke 10:2"
+            },
+            {
+                "pts": 200,
+                "ask": "What did the apostle Paul, writing to the Thessalonians, say that those who refused to work should be kept from doing?",
+                "ans": "eating",
+                "ref": "2 Thessalonians 3:10"
+            },
+            {
+                "pts": 300,
+                "ask": "What man, who once deserted Paul's mission work in Pamphylia, did the apostle later call \"helpful\" and ask Timothy to bring to him?",
+                "ans": "(John) Mark",
+                "ref": "Acts 15:37-38, 2 Timothy 4:11"
+            },
+            {
+                "pts": 400,
+                "ask": "What did Jesus once say a worker was worthy of?",
+                "ans": "his wages, or hire",
+                "ref": "Luke 10:7"
+            },
+            {
+                "pts": 500,
+                "ask": "What word did the writer of Ecclesiastes use to describe the sleep of a laborer?",
+                "ans": "sweet",
+                "ref": "Ecclesiastes 5:12"
+            }
+        ]
+    }
+]

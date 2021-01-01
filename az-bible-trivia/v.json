@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Victory and Defeat",
+        "intro": "You win some, you lose some... You could be a winnerm depending on how much you know about biblical victories and defeats.",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What weapon did the young David use to fell the giant warrior Goliath?",
+                "ans": "a sling",
+                "ref": "1 Samuel 17:4, 50"
+            },
+            {
+                "pts": 200,
+                "ask": "What hostile army, pursing the people of Israel, was completely destroyed in the middle of the Red Sea?",
+                "ans": "the Egyptians",
+                "ref": "Exodus 14:21-28"
+            },
+            {
+                "pts": 300,
+                "ask": "What, according to 1 Corinthians, will be \"swallowed up in victory\" at the last trumpet?",
+                "ans": "death",
+                "ref": "1 Corinthians 15:51-54"
+            },
+            {
+                "pts": 400,
+                "ask": "What three-word phrase did Paul use to describe believers who may suffer persecution, famine, and danger - but who are never separated from the love of Christ?",
+                "ans": "\"more than conquerors",
+                "ref": "Romans 8:35-39"
+            },
+            {
+                "pts": 500,
+                "ask": "What miracle occured in the heavens the day Joshua and the Israelites defeated the armies of the five kings of the Amorites?",
+                "ans": "the sun stood still",
+                "ref": "Joshua 10:9-14"
+            }
+        ]
+    }, {
+        "section": "Vipers",
+        "intro": "No, not the sports car by Dodge... we're talking about the slithering, sneaky, snaky kind of viper. Do you remember these stories?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What religious group did Jesus twice call a \"brood (or generation) of vipers\"?",
+                "ans": "the Pharisees",
+                "ref": "Matthew 12:24-34, 23:29-33"
+            },
+            {
+                "pts": 200,
+                "ask": "What Egyptian leader disregarded Moses and Aaron's miracle of turning a staff into a snake?",
+                "ans": "Pharaoh",
+                "ref": "Exodus 7:10-13"
+            },
+            {
+                "pts": 300,
+                "ask": "What forbidden tree in the Garden of Eden did the serpent convince Eve to eat from?",
+                "ans": "the tree of the knowledge of good and evil",
+                "ref": "Genesis 2:15-17, 3:1-6"
+            },
+            {
+                "pts": 400,
+                "ask": "What metal did Moses use to fashion a snake image that healed Israelites",
+                "ans": "bronze, or brass",
+                "ref": "Numbers 21:4-9"
+            },
+            {
+                "pts": 500,
+                "ask": "What sparkling substance does the writer of Proverbs compare to the poison of a viper?",
+                "ans": "wine",
+                "ref": "Proverbs 23:31-32"
+            }
+        ]
+    }, {
+        "section": "Visions",
+        "intro": "Visions appear throughout the Bible - both Old Testament and New. Can you recall details of these five?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What suffering Old Testament saint complained that God would \"terrify\" him with visions?",
+                "ans": "Job",
+                "ref": "Job 7:13-14"
+            },
+            {
+                "pts": 200,
+                "ask": "What apostle had a vision of animals being let down from heaven in a sheet - and realized God had offered salvation to the Gentiles?",
+                "ans": "Peter",
+                "ref": "Acts 11:1-8"
+            },
+            {
+                "pts": 300,
+                "ask": "What Israelite leader did God speak with face to face rather than in visions?",
+                "ans": "Moses",
+                "ref": "Numbers 12:6-8"
+            },
+            {
+                "pts": 400,
+                "ask": "How many golden lammp stands, each representing a church in Asia Minor, did John see in his vision of the Revelation of Christ?",
+                "ans": "seven",
+                "ref": "Revelation 1:12-20"
+            },
+            {
+                "pts": 500,
+                "ask": "What two animals appeared in a prophetic vision of Daniel's, near the Ulai Canal?",
+                "ans": "ram and goat",
+                "ref": "Daniel 8:1-12"
+            }
+        ]
+    }, {
+        "section": "Voice of God",
+        "intro": "When God speaks, you'd better listen! Were you paying attention when God spoke in these Bible passages?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What storm-related phenomenon is likened to God's voice in the books of Job and John?",
+                "ans": "thunder",
+                "ref": "Job 37:4-5; John 12:23-29"
+            },
+            {
+                "pts": 200,
+                "ask": "Where was the persecutor Saul going when he was stopped on the road and converted by the voice of Jesus?",
+                "ans": "Damascus",
+                "ref": "Acts 9:1-6"
+            },
+            {
+                "pts": 300,
+                "ask": "What excuse did Adam give for hiding when he heard God's voice?",
+                "ans": "afraid or naked",
+                "ref": "Genesis 3:9-10"
+            },
+            {
+                "pts": 400,
+                "ask": "What two Old Testament figures appeared at Jesus' transfiguration, when God's voice was heard saying, \"This is my Son, whom I love; with him I am well pleased\"?",
+                "ans": "Moses and Elijah",
+                "ref": "Matthew 17:1-5"
+            },
+            {
+                "pts": 500,
+                "ask": "What three-word title, later applied to Jesus Christ, did the voice of God use to address the prophet Ezekiel?",
+                "ans": "\"son of man\"",
+                "ref": "Ezekiel 2:1, Matthew 8:20"
+            }
+        ]
+    }
+]
