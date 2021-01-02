@@ -1,0 +1,143 @@
+[
+    {
+        "section": "Zacchaeus",
+        "intro": "If you know the Sunday school song about Zacchaeus, you might want to sing it to yourself... It'll probably help you answer some of these questions!",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What physical characteristic initially hindered Zacchaeus from seeing Jesus?",
+                "ans": "shortness",
+                "ref": "Luke 19:3"
+            },
+            {
+                "pts": 200,
+                "ask": "What was Zacchaeus's line of work?",
+                "ans": "tax collector, or publican",
+                "ref": "Luke 19:2"
+            },
+            {
+                "pts": 300,
+                "ask": "What derogatory name did the crowd call Zacchaeus when Jesus visited his home?",
+                "ans": "\"a sinner\"",
+                "ref": "Luke 19:7"
+            },
+            {
+                "pts": 400,
+                "ask": "What town was home to Zacchaeus?",
+                "ans": "Jericho",
+                "ref": "Luke 19:1, 5-6"
+            },
+            {
+                "pts": 500,
+                "ask": "How much did Zacchaeus promise to pay back to anyone had cheated?",
+                "ans": "four times the amount",
+                "ref": "Luke 19:8"
+            }
+        ]
+    }, {
+        "section": "Zechariah who?",
+        "intro": "Like Michael or Jason today, Zechariah was a very popular name in Bible times. Your job in this quiz is to sort out which Zechariah is which?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What famed evangelist was born to a priest named Zechariah?",
+                "ans": "John the Baptist",
+                "ref": "Luke 1:57-60"
+            },
+            {
+                "pts": 200,
+                "ask": "At what place of worship was Zechariah, the son of the high priest Jehoiada, stoned to death for condemning Judah's idolatry?",
+                "ans": "the temple",
+                "ref": "2 Chronicles 24:17-22"
+            },
+            {
+                "pts": 300,
+                "ask": "What violent act ended the reign of the evil King Zechariah of Israel only six months after he took power?",
+                "ans": "assassination",
+                "ref": "2 Kings 15:8-10"
+            },
+            {
+                "pts": 400,
+                "ask": "What structure in Jerusalem did a certain Zechariah, son of Jonathan, help Nehemiah dedicate?",
+                "ans": "the wall",
+                "ref": "Nehemiah 12:27-37"
+            },
+            {
+                "pts": 500,
+                "ask": "What type of tree surrounded a man on a red horse in a vision of the prophet Zechariah?",
+                "ans": "myrtle",
+                "ref": "Zechariah 1:7-8"
+            }
+        ]
+    }, {
+        "section": "Z inside",
+        "intro": "Well, what better clue can we give you than that? Every answer in this quiz will include a Z somewhere inside",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What town in Galilee was the boyhood home of Jesus?",
+                "ans": "Nazareth",
+                "ref": "Matthew 2:19-23"
+            },
+            {
+                "pts": 200,
+                "ask": "What word described the crowd's response when Jesus used His authority to drive out evil spirits?",
+                "ans": "amazed",
+                "ref": "Mark 1:23-27"
+            },
+            {
+                "pts": 300,
+                "ask": "What Philistine city's name is still heard in the news today, often with the word \"strip\"?",
+                "ans": "Gaza",
+                "ref": "2 Kings 18:8"
+            },
+            {
+                "pts": 400,
+                "ask": "What \"prince of demons\" did Pharisees accuse Jesus of using to cast out demons?",
+                "ans": "Beelzebub",
+                "ref": "Mark 3:22"
+            },
+            {
+                "pts": 500,
+                "ask": "What town, along with Bethsaida, did not repent when Jesus performed miracles there and thus received a pronouncement of woe?",
+                "ans": "Korazin, or Chorazin",
+                "ref": "Matthew 11:20-21"
+            }
+        ]
+    }, {
+        "section": "Zion",
+        "intro": "A classic hymn says that \"glorious things of thee are spoken, Zion, city of our God.\" What do you know about this important place?",
+        "questions": [
+            {
+                "pts": 100,
+                "ask": "What great king of Israel captured the fortress of Zion from mocking Jebusites?",
+                "ans": "David",
+                "ref": "2 Samuel 5:6-8"
+            },
+            {
+                "pts": 200,
+                "ask": "What happy musical compositions of Zion did the psalmist remember longlingly \"by the rivers of Babylon\"?",
+                "ans": "songs",
+                "ref": "Psalm 137:1-3"
+            },
+            {
+                "pts": 300,
+                "ask": "What important religious artifact was brought from Zico to the new temple built by Solomon?",
+                "ans": "the ark of the covenant",
+                "ref": "1 Kings 8:1-5"
+            },
+            {
+                "pts": 400,
+                "ask": "What kind of stone, according to the apostle Paul, did God lay in Zion?",
+                "ans": "stumbling",
+                "ref": "Romans 9:32-33"
+            },
+            {
+                "pts": 500,
+                "ask": "How many of those \"redeemed from the earth\" stood with the Lamb on Mount Zion in John's Revelation?",
+                "ans": "144,000",
+                "ref": "Revelation 14:1-3"
+            }
+        ]
+    }
+]
