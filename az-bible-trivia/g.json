@@ -71,11 +71,11 @@
       ]
   }, {
       "section": "\"Go\" to",
-      "intro": "You guessed it - all of the answers in this quiz are places that strat with G. Go for it!",
+      "intro": "You guessed it - all of the answers in this quiz are places that start with G. Go for it!",
       "questions": [
           {
               "pts": 100,
-              "ask": "What wicked city did Jeesus pair with Sodom?",
+              "ask": "What wicked city did Jesus pair with Sodom?",
               "ans": "Gomorrah",
               "ref": "Matthew 10:15"
           },
@@ -135,7 +135,7 @@
           {
               "pts": 500,
               "ask": "What priests, the two sons of Eli, were judged for treating the Lord's offerings with contempt?",
-              "ans": "Hophni nad Phinehas",
+              "ans": "Hophni and Phinehas",
               "ref": "1 Samuel 1:3, 2:12-17"
           }
       ]
