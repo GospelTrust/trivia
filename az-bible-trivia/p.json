@@ -58,7 +58,7 @@
             },
             {
                 "pts": 400,
-                "ask": "What type of person did Jesus use to constrast with the self-righteous Pharisees in a parable on humility?",
+                "ask": "What type of person did Jesus use to contrast with the self-righteous Pharisees in a parable on humility?",
                 "ans": "a tax collector, or publican",
                 "ref": "Luke 18:9-14"
             },
@@ -99,7 +99,7 @@
             },
             {
                 "pts": 500,
-                "ask": "What fellow government official - formerly an enemy - became Pon tius Pilate's friend during Jesus' trial?'",
+                "ask": "What fellow government official - formerly an enemy - became Pontius Pilate's friend during Jesus' trial?'",
                 "ans": "Herod",
                 "ref": "Luke 23:5-12"
             }
@@ -134,7 +134,7 @@
             },
             {
                 "pts": 500,
-                "ask": "How did Paul describe everythinng he had lost in his life in his efforts to gain Christ?",
+                "ask": "How did Paul describe everything he had lost in his life in his efforts to gain Christ?",
                 "ans": "rubbish, or dung",
                 "ref": "Philippians 3:7-8"
             }
