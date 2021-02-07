@@ -116,13 +116,13 @@
             },
             {
                 "pts": 200,
-                "ask": "What happy musical compositions of Zion did the psalmist remember longlingly \"by the rivers of Babylon\"?",
+                "ask": "What happy musical compositions of Zion did the psalmist remember longingly \"by the rivers of Babylon\"?",
                 "ans": "songs",
                 "ref": "Psalm 137:1-3"
             },
             {
                 "pts": 300,
-                "ask": "What important religious artifact was brought from Zico to the new temple built by Solomon?",
+                "ask": "What important religious artifact was brought from Zion to the new temple built by Solomon?",
                 "ans": "the ark of the covenant",
                 "ref": "1 Kings 8:1-5"
             },

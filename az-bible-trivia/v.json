@@ -1,7 +1,7 @@
 [
     {
         "section": "Victory and Defeat",
-        "intro": "You win some, you lose some... You could be a winnerm depending on how much you know about biblical victories and defeats.",
+        "intro": "You win some, you lose some... You could be a winner, depending on how much you know about biblical victories and defeats.",
         "questions": [
             {
                 "pts": 100,
@@ -29,7 +29,7 @@
             },
             {
                 "pts": 500,
-                "ask": "What miracle occured in the heavens the day Joshua and the Israelites defeated the armies of the five kings of the Amorites?",
+                "ask": "What miracle occurred in the heavens the day Joshua and the Israelites defeated the armies of the five kings of the Amorites?",
                 "ans": "the sun stood still",
                 "ref": "Joshua 10:9-14"
             }
@@ -93,7 +93,7 @@
             },
             {
                 "pts": 400,
-                "ask": "How many golden lammp stands, each representing a church in Asia Minor, did John see in his vision of the Revelation of Christ?",
+                "ask": "How many golden lamp stands, each representing a church in Asia Minor, did John see in his vision of the Revelation of Christ?",
                 "ans": "seven",
                 "ref": "Revelation 1:12-20"
             },

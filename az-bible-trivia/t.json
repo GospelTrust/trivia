@@ -93,13 +93,13 @@
             },
             {
                 "pts": 400,
-                "ask": "What kind of tree was Gidein working under when the angel of the Lord greeted him?",
+                "ask": "What kind of tree was Gideon working under when the angel of the Lord greeted him?",
                 "ans": "oak",
                 "ref": "Judges 6:11-12"
             },
             {
                 "pts": 500,
-                "ask": "What type of tree does the lovesmitten woman of the Song of Songs compare her man to",
+                "ask": "What type of tree does the love-smitten woman of the Song of Songs compare her man to",
                 "ans": "apple",
                 "ref": "Song of Songs 2:3"
             }

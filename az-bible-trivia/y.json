@@ -99,7 +99,7 @@
             },
             {
                 "pts": 500,
-                "ask": "What king, the son of Solomonm threatened to place his subjects under a heavy yoke - and caused many of the tribes of Israel to rebel?",
+                "ask": "What king, the son of Solomon, threatened to place his subjects under a heavy yoke - and caused many of the tribes of Israel to rebel?",
                 "ans": "Rehoboam",
                 "ref": "1 Kings 12:1-19"
             }
@@ -135,7 +135,7 @@
             {
                 "pts": 500,
                 "ask": "What young relative of Paul discovered and reported a plot to kill the apostle in Jerusalem?",
-                "ans": "his newphew, or sister's son",
+                "ans": "his nephew, or sister's son",
                 "ref": "Acts 23:12-22"
             }
         ]
